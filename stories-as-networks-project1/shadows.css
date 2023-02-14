@@ -1,13 +1,70 @@
 body {
     background-color: black;
-    width:100%;
-    height:100%;
+    padding: 180pt;
   }
 
   .container {
-    padding: 20pt;
+   
   }
   
+  .in{
+    position: relative;
+    color: #ffffff;
+    font-size: 100pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    font-style: italic;
+    left: 50px;
+  }
+
+  .shadows{
+    position: relative;
+    color:#ffffff;
+    font-size: 100pt;
+    font-family: serif;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    font-style: italic;
+    left: 40px;
+  }
+
+  .jun{
+    position: relative;
+    color:#ffffff;
+    font-size: 27pt;
+    font-family: serif;
+    font-family: "kepler-std-display", serif;
+    font-weight: 1;
+    font-style: normal;
+    display: inline-block;
+    top: 100px;
+    left: 45px;
+  }
+
+  .titlejp{
+    position: relative;
+    color:#ffffff;
+    font-size: 45pt;
+    font-family: serif;
+    display: inline-block;
+    left: 770px;
+  }
+
+  .namejp{
+    position: relative;
+    color:#ffffff;
+    font-size: 20pt;
+    font-family: serif;
+    display: inline-block;
+    left: 1105px;
+    top: 50px;
+
+  }
+
+
+
+
+/*
   .in{
     position: relative;
     color: #ffffff;
@@ -66,3 +123,4 @@ body {
     display: inline-block;
 
   }
+*/

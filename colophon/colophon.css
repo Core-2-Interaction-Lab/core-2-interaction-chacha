@@ -3,17 +3,64 @@ body{
     
 }
 
+.container{
+    padding: 195px;
+   
+}
 
-
-h1{
+.title{
     position: relative;
+    top: -150px;
+    left: -100px;
     color: #ffffff;
     font-size: 80pt;
-    top: 200px;
-    left: 400px;
     font-family: "kepler-std-display", serif;
     font-weight: 300;
-    font-style: italic;
+    line-height: 150px;
+  }
+  
+
+  .name{
+    position: relative;
+    top: -170px;
+    left: -100px;
+    color: #ffffff;
+    font-size: 25pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    line-height: 150px;
+  }
+
+  .titlejp{
+    position: relative;
+    color: #ffffff;
+    font-size: 45pt;
+    font-family: serif;
+    display: inline-block;
+    top: -408px;
+    left: 1200px;
+   
+  }
+
+  .namejp{
+    position: relative;
+    color: #ffffff;
+    font-size: 24pt;
+    font-family: serif;
+    display: inline-block;
+    top: -305px;
+    left: 1020px;
+  }
+ 
+  .quote{
+    position: relative;
+    color: #ffffff;
+    font-size: 24pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    display: inline-block;
+    top: -105px;
+    left: 120px;
   }
 
 

@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.titlejp{
+    color: #fff;
+    position: fixed;
+    font-size: 30px;
+    top: 40px;
+    left: 40px;
+    line-height: 38px;
+    z-index: 1;
+}
+
+.titlejp:hover{
+    color: rgb(245, 221, 169);
+    text-shadow:
+      0 0 30px #fff,
+      0 0 3px #fff;
+}
+
+.title{
+    position: relative;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: right;
+    right: 100px;
+    top: 25px;
+  }
+
+  .two{
+    position: relative;
+    color: #ffffff;
+    font-size: 100px;
+    font-family: serif;
+    font-weight: 300;
+    text-align: right;
+    right: 100px;
+    top: 10px;
+  }
