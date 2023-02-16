@@ -5,62 +5,141 @@ body{
 
 .container{
     padding: 195px;
-   
+    
 }
 
 .title{
-    position: relative;
-    top: -150px;
-    left: -100px;
+    position: fixed;
+    top: 40px;
+    left: 70px;
     color: #ffffff;
     font-size: 80pt;
     font-family: "kepler-std-display", serif;
     font-weight: 300;
-    line-height: 150px;
+    line-height: 120px;
   }
   
 
   .name{
-    position: relative;
-    top: -170px;
-    left: -100px;
+    position: fixed;
+    top: 260px;
+    left: 70px;
     color: #ffffff;
     font-size: 25pt;
     font-family: "kepler-std-display", serif;
     font-weight: 300;
     line-height: 150px;
+    letter-spacing: 0.05em;
   }
 
   .titlejp{
-    position: relative;
+    position: fixed;
     color: #ffffff;
     font-size: 45pt;
     font-family: serif;
     display: inline-block;
-    top: -408px;
-    left: 1200px;
-   
+    top: 181px;
+    left: 1470px;
   }
 
   .namejp{
-    position: relative;
+    position: fixed;
     color: #ffffff;
     font-size: 24pt;
     font-family: serif;
     display: inline-block;
-    top: -305px;
-    left: 1020px;
+    top: 309px;
+    left: 1541px;
   }
  
   .quote{
-    position: relative;
+    position: fixed;
     color: #ffffff;
-    font-size: 24pt;
+    font-size: 20pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    font-style: italic;
+    top: 450px;
+    left: 70px;
+    letter-spacing: 0.05em;
+    width: 1000px;
+  }
+
+  .des{
+    position: fixed;
+    color: #ffffff;
+    font-size: 12pt;
     font-family: "kepler-std-display", serif;
     font-weight: 300;
     display: inline-block;
-    top: -105px;
-    left: 120px;
+    top: 740px;
+    width: 630px;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 0.07em;
   }
 
+  .type{
+    position: fixed;
+    color: #ffffff;
+    font-size: 12pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    display: inline-block;
+    top: 790px;
+    width: 630px;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 0.05em;
+  }
+
+  .cha{
+    position: fixed;
+    color: #ffffff;
+    font-size: 20pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    display: inline-block;
+    top: 875px;
+    left: 71px;
+    letter-spacing: 0.05em;
+  }
+
+  .core{
+    position: fixed;
+    color: #ffffff;
+    font-size: 20pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    display: inline-block;
+    top: 890px;
+    letter-spacing: 0.05em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .date{
+    position: fixed;
+    color: #ffffff;
+    font-size: 20pt;
+    font-family: "kepler-std-display", serif;
+    font-weight: 300;
+    display: inline-block;
+    top: 891px;
+    letter-spacing: 0.07em;
+    left: 1650px;
+    transform: translate(-50%, -50%);
+  }
+
+  a{
+    color: #ffffff;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+  a:hover{
+    filter: blur(2px);
+  }
 

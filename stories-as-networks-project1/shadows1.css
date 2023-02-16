@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: beige;
     color: white;
 }
 
@@ -42,4 +42,61 @@ body{
     text-align: right;
     right: 100px;
     top: 5px;
+  }
+
+  .window1{
+    position: relative;
+    left: 500px;
+    top: 450px;
+    width: 360px;
+    height: 90px;
+    transform: skew(-76deg);
+
+background: linear-gradient(180deg, #C7B893 13.34%, rgba(199, 184, 147, 0) 100%);
+  }
+
+  .window2{
+    position: relative;
+    left: 889px;
+    top: 360px;
+    width: 370px;
+    height: 90px;
+    transform: skew(-76deg);
+
+background: linear-gradient(180deg, #C7B893 13.34%, rgba(199, 184, 147, 0) 100%);
+  }
+
+  .boxtop{
+    position: relative;
+    width: 787px;
+    height: 300px;
+    left: 353px;
+    top: -400px;
+    
+    background: linear-gradient(180deg, #000000 85.98%, rgba(0, 0, 0, 0) 100%);
+  }
+
+  .boxbottom{
+    position: relative;
+width: 858px;
+height: 200px;
+left: 257px;
+top: 50px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 11.98%);
+  }
+
+  .text{
+    color: aqua;
+    padding: 570px;
+    position: relative;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: "kepler-std-display", serif;
+    text-align: justify;
+    font-weight: 300;
+    top: -1150px;
+    left: -128px;
+    overflow: scroll;
+    height: 800px;
   }

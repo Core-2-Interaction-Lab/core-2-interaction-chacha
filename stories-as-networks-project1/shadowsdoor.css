@@ -1,9 +1,40 @@
+.door{
+    display: flex;
+    padding: 20px;
+   background-color: blueviolet;
+   height: 600px;
+   width: 600px;
+    margin-top: -700px;
+   left: -90px;
+   
+}
+
+
+/*
+
+height: 9pt;
+    width: 250pt;
+    background-color: white;
+    margin-top: -20px;
+    border-radius: 10px;
+
+.c{
+
+    margin: 30px;
+    background-color: aqua;
+}
+*/
+
 .leftc{
-  
-    height: 980pt;
+    height: 600pt;
     width: 500pt;
     background-color: white;
-    top: -900px;
+    margin-top: -70px;
+    display: inline-block;
+    opacity: 50%;
+    align-items: left;
+   
+   
    
   }
   

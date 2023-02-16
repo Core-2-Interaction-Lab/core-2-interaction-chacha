@@ -42,12 +42,12 @@ a{
 a:hover{
     color: rgb(245, 221, 169)
 }
-.tab{ height: 9pt;
+.tab{ 
+    height: 9pt;
     width: 250pt;
     background-color: white;
     margin-top: -20px;
     border-radius: 10px;
-    
 
 }
 
