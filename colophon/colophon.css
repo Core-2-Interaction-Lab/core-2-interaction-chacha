@@ -63,6 +63,7 @@ body{
     left: 70px;
     letter-spacing: 0.05em;
     width: 1000px;
+    
   }
 
   .des{
@@ -143,3 +144,77 @@ body{
     filter: blur(2px);
   }
 
+
+  /* Mobile */
+
+@media (max-width:700px) {
+ 
+  .title{
+    top: 20px;
+    left: 24px;
+    font-size: 50pt;
+    line-height: 80px;
+  }
+  
+
+  .name{
+    top: 120px;
+    left: 24px;
+    font-size: 15pt;
+  }
+
+  .titlejp{
+    font-size: 25pt;
+    top: 228px;
+    left: 350px;
+  }
+
+  .namejp{
+    font-size: 12pt;
+    top: 285px;
+    left: 396px;
+  }
+ 
+  .quote{
+    font-size: 17pt;
+    top: 390px;
+    left: 24px;
+    letter-spacing: 0.05em;
+    width: 450px;
+  }
+
+  .des{
+    font-size: 12pt;
+    top: 690px;
+    width: 300px;
+  }
+
+  .type{
+    font-size: 12pt;
+    top: 760px;
+    width: 630px;
+  }
+
+  .cha{
+    font-size: 14pt;
+    top: 835px;
+    left: 71px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .core{
+    font-size: 14pt;
+    top: 865px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .date{
+    font-size: 14pt;
+    top: 895px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+}
