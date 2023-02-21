@@ -1,0 +1,89 @@
+@font-face{
+    font-family: 'AuthenticSans';
+    src: url('AUTHENTICSans-90.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+@font-face{
+    font-family: 'AuthenticSans';
+    src: url('AUTHENTICSans-60.woff2') format('woff2');
+    font-weight: normal;
+    font-weight: 60;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+@font-face{
+    font-family: 'AuthenticSans';
+    src: url('AUTHENTICSans-130.woff2') format('woff2');
+    font-weight: 130;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+@font-face{
+    font-family: 'AuthenticSans';
+    src: url('AUTHENTICSans-150.woff2') format('woff2');
+    font-weight: 150;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+body {
+    font-family: 'AuthenticSans', sans-serif;
+    color: rgb(34, 124, 221);
+    font-size: 20px;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin: 0;
+    font-weight: 130;
+
+  }
+  
+  .entries {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .heading {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  
+  .chapter {
+    letter-spacing: 10px;
+    font-weight: 800;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .page {
+    margin-top: 10px;
+    font-weight: 60;
+  }
+  
+  .pages{
+    margin-bottom: 5px;
+  }
+  
+  span {
+  display: block;
+  }

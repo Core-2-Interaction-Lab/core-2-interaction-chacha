@@ -1,0 +1,71 @@
+@font-face{
+    font-family: 'AuthenticSans';
+    src: url('AUTHENTICSans-90.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+body {
+    font-family: 'AuthenticSans', sans-serif;
+    color: rgb(34, 124, 221);
+    font-size: 20px;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin: 0;
+    font-weight: 130;
+
+  }
+  
+  .entries {
+    margin-bottom: 40px;
+    
+  }
+  
+  .heading {
+    margin-bottom: 40px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .chapter {
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .page {
+    margin-top: 10px;
+    font-weight: 60;
+    
+    text-align: end;
+  }
+  
+  .pages{
+    margin-bottom: 5px;
+    text-align: end;
+  }
+
+  .description{
+    text-align: center;
+    margin-top: 10px;
+    text-transform: lowercase;
+  }
+  
+  span {
+  display: block;
+  }

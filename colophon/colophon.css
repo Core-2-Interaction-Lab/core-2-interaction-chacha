@@ -1,11 +1,9 @@
 body{
     background-color: black;
-    
 }
 
 .container{
     padding: 195px;
-    
 }
 
 .title{
@@ -19,7 +17,6 @@ body{
     line-height: 120px;
   }
   
-
   .name{
     position: fixed;
     top: 260px;
