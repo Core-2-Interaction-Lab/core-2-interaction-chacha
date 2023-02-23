@@ -4,25 +4,6 @@ body{
     margin: 0;
 }
 
-body {
-  animation: change-color 40s  infinite ;
-  animation-direction: alternate;
-}
-
-@keyframes change-color {
- 0% {
-  background-color: black;
-}
-50% {
-  background-color: white;
-}
-
-  100% {
-  background-color: black;
-}
-}
-
-
 .top{
   z-index: 100;
   position: fixed;
@@ -33,30 +14,14 @@ a{
 }
 
 .titlejp{
+    color: #fff;
     position: fixed;
     font-size: 30px;
     margin-top: 40px;
     margin-left: 40px;
     line-height: 38px;
     transition: 0.5s;
-    animation: change-colorc 40s  infinite ;
-    animation-direction: alternate;
-      
-    }
-  
-    @keyframes change-colorc {
-      0% {
-       color: white;
-     }
-     50% {
-       color: black;
-     }
-     
-       100% {
-       color: white;
-     }
-     }
-
+}
 
 .titlejp:hover{
     color: rgb(245, 221, 169);
@@ -67,7 +32,7 @@ a{
 
 .title{
     position: relative;
-    
+    color: #ffffff;
     font-size: 25px;
     letter-spacing: 1px;
     font-family: "kepler-std-display", serif;
@@ -80,7 +45,7 @@ a{
 
   .one{
     position: relative;
-    
+    color: #ffffff;
     font-size: 110px;
     font-family: serif;
     font-weight: 300;
@@ -89,25 +54,6 @@ a{
     top: 5px;
   }
 
-  .color{
-  animation: change-colorc 40s  infinite ;
-  animation-direction: alternate;
-    
-  }
-
-  @keyframes change-colorc {
-    0% {
-     color: white;
-   }
-   50% {
-     color: black;
-   }
-   
-     100% {
-     color: white;
-   }
-   }
-/*
   .window{
     align-items: center;
     position: sticky;
@@ -138,7 +84,7 @@ a{
     transform: skew(-79deg);
     background: linear-gradient(180deg, #C7B893 13.34%, rgba(199, 184, 147, 0) 100%);
   }
-*/
+
   .text{
     font-size: 22px;
     letter-spacing: 2.2px;
@@ -147,57 +93,13 @@ a{
     font-family: "kepler-std-display", serif;
     text-align: justify;
     font-weight: 300;
-    position: sticky;
+    position: fixed;
     display: flex;
     margin: 10%;
     margin-bottom: 1px;
     margin-top: 2%;
-
-    animation: change-colort 40s  infinite ;
-  animation-direction: alternate;
     
   }
-
-  @keyframes change-colort {
-    0% {
-     color: white;
-   }
-   50% {
-     color: black;
-   }
-   
-     100% {
-     color: white;
-   }
-   }
-   
-
-  .next{
-    color: #fff;
-    position: relative;
-    font-size: 40px;
-    font-family: serif;
-    font-weight: 300;
-    text-align: right;
-    right: 100px;
-    bottom: 10px;
-    filter: blur(2px);
-    transition: 0.5s;
-  }
-
-  .next:hover{
-    filter:none;
-  }
-  
-  a{
-    color: #fff;
-    text-decoration: none;
-  }
-
-  a:visited{
-    color: #C7B893;
-  }
-
 /*
   .box{
     height: 100vh;
@@ -259,4 +161,7 @@ background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 11.98%);
     height: 800px;
   }
   */
- 
+  .text{
+    position: sticky;
+    z-index: 1;
+  }

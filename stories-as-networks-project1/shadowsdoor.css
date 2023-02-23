@@ -1,40 +1,66 @@
-.door{
+.b{
+position: relative;
+    margin: auto;
+      padding: 50px;
+      width: 5%;
+      height: 5%;
+    z-index: 100;
+    }
+    
+    .button{
+        position: relative;
+        margin: 50%;
+        background-color: white;
+        height: 60pt;
+        width: 10pt;
+        border-radius: 10px;
+       transition: 0.4s;
+       z-index: 100;
+        align-items: center;
+     
+    }
+    
+    .button:hover{
+        filter: blur(5px);
+    }
+    
+
+
+.container{
+    align-items: center;
+    align-content: space-between;
+    bottom: 0;
+    top: 0;
     display: flex;
-    padding: 20px;
-   background-color: blueviolet;
-   height: 600px;
-   width: 600px;
-    margin-top: -700px;
-   left: -90px;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+    position: fixed;
+   
+ 
+}
+
+.door {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
    
 }
 
-
-/*
-
-height: 9pt;
-    width: 250pt;
-    background-color: white;
-    margin-top: -20px;
-    border-radius: 10px;
-
-.c{
-
-    margin: 30px;
-    background-color: aqua;
+.item{
+    background: white;
+display:flex;
+flex-flow: row ;
+filter: blur(5px);
+width:22vw;
+height: 29vh;
+margin: 0.4rem;
+    opacity: 0.98;
+   
+    transition: 0.4s;
 }
-*/
 
-.leftc{
-    height: 600pt;
-    width: 500pt;
-    background-color: white;
-    margin-top: -70px;
-    display: inline-block;
-    opacity: 50%;
-    align-items: left;
-   
-   
-   
-  }
-  
+.item:hover{
+    opacity: 0;
+}
+

@@ -1,0 +1,131 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+.titlejp{
+  color: #fff;
+  position: fixed;
+  font-size: 30px;
+  top: 40px;
+  left: 40px;
+  line-height: 38px;
+  z-index: 1;
+  transition: 0.5s;
+}
+
+.titlejp:hover{
+  color: rgb(245, 221, 169);
+  text-shadow:
+    0 0 30px #fff,
+    0 0 3px #fff;
+}
+
+.title{
+  position: relative;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-family: "kepler-std-display", serif;
+  font-weight: 300;
+  font-style: italic;
+  text-align: right;
+  right: 100px;
+  top: 25px;
+}
+
+.two{
+  position: relative;
+  color: #ffffff;
+  font-size: 100px;
+  font-family: serif;
+  font-weight: 300;
+  text-align: right;
+  right: 100px;
+  top: 10px;
+}
+
+.text{
+  font-size: 22px;
+  letter-spacing: 2px;
+  line-height: 33px;
+  z-index: -10;
+  font-family: "kepler-std-display", serif;
+  text-align: justify;
+  font-weight: 300;
+  align-items: center;
+  position: relative;
+  margin: 4%;
+  margin-top: 3%;
+  margin-bottom: -6%;
+  filter: blur(2px);
+
+}
+
+.box{
+  display: flex;
+  flex-flow: row ;
+  justify-content: center;
+  margin: -2%;
+}
+
+
+.t{
+  width:35vw;
+  height: 35vh;
+  margin: 2rem;
+  opacity: 0.98;
+  
+}
+
+
+.container{
+  align-items: center;
+  align-content: space-between;
+  bottom: 0;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+  position: fixed;
+ z-index: 100;
+ margin-top: 8%;
+ margin-left: 8%;
+ margin-right: 8%;
+
+}
+
+.door {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+ 
+}
+
+.item{
+  background: white;
+display:flex;
+flex-flow: row ;
+filter: blur(5px);
+width:40vw;
+height: 36vh;
+margin: 0.6rem;
+  opacity: 0.98;
+  transition: 0.4s;
+}
+
+.item:hover{
+  opacity: 0;
+}
+
+
+/*
+.text{
+  position: relative;
+ 
+  margin: 10%;
+  margin-bottom: 1px;
+  margin-top: 8%;
+}
+*/

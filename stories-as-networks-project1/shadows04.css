@@ -56,79 +56,49 @@ body{
   margin: 10%;
   margin-bottom: 1px;
   margin-top: 4%;
-}
-/*
-
-.text{
-
-
-  position: sticky;
-  display: flex;
-  margin: 10%;
-  margin-bottom: 1px;
-  margin-top: 2%;
-}
-*/
-
-.g{
-  transition-delay: -1s;
-  opacity: 0.6;
-  transition: 0.5s;
-
+  z-index: -1;
 }
 
-.g:hover{
-color: rgb(245, 221, 169);
-  text-shadow:
-    0 0 20px #fff,
-    0 0 3px #fff,
-    0 0 10px #fff,
-    0 0 4px #fff;
-    font-size: 25px;
-    opacity: 1;
-}
-
-.glo{
-transition-duration: 1s;
-transition-property: font-size;
-}
-
-
-.bottom{
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row-reverse;
-  margin-left: 5%;
-  margin-right: 5%;
-  position: relative;
-
-}
-
-.b{
-  color: #fff;
-  font-size: 40px;
-  font-family: serif;
-  font-weight: 300;
-  filter: blur(2px);
-  transition: 0.5s;
-  margin-top: 2%;
+.container{
+  align-items: center;
   
+  bottom: 0;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+  position: fixed;
+ z-index: 1;
+ margin-top: 1%;
+ margin-left: 7%;
+ margin-right: 2%;
+
+}
+
+.door {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+ 
+}
+
+.item{
+  background: white;
+display:flex;
+flex-flow: row ;
+filter: blur(5px);
+width:20vw;
+height: 90vh;
+margin: 0.6rem;
+  opacity: 0.98;
+  transition: 0.4s;
+  justify-content: center;
+}
+
+.item:hover{
+  opacity: 0;
 }
 
 
-.next:hover{
-  filter:none;
-}
 
-.back:hover{
-  filter:none;
-}
-
-a{
-  color: #fff;
-  text-decoration: none;
-}
-
-a:visited{
-  color: #C7B893;
-}

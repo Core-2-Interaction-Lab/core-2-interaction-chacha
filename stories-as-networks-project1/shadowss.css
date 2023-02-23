@@ -1,11 +1,11 @@
 body {
     background-color: black;
-    z-index: -100;
+
 
   }
 
   .text {
-    color: #5a5a5a;
+    color: white;
    margin-top: 180px;
    margin-left: 180px;
    margin-right: 180px;
@@ -42,7 +42,6 @@ body {
     font-family: serif;
     display: inline-block;
     text-align: right;
-   
   }
 
   .namejp{
@@ -53,8 +52,44 @@ body {
    
   }
 
+.bottom{
+    color: white;
+    font-family: "kepler-std-display", serif;
+    letter-spacing: 0.7px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 50px;
+   
+  
 
+}
 
+.cha{
+    text-align: center;
+}
+
+.circle{
+    position: relative;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+   
+
+    top: 50%;
+    left: 53.5%;
+    margin-top: -50px;
+    margin-left: -100px;
+    transition: 0.5s;
+}
+
+.circle:hover{
+    filter: blur(19px);
+   
+}
 
 /*
   .in{
