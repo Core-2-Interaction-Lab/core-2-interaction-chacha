@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(50, 72, 17);
+}
+
+h1{
+    line-height: 90px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+ul{
+    text-align: left;
+    line-height: 50px;
+}
+
+p{
+    text-align: left;
+    line-height: 40px;
+}
