@@ -1,0 +1,299 @@
+[
+  {
+    "id": "Panthella-Table-Lamp",
+    "title": "Panthella Table Lamp",
+    "designer": "Verner Panton",
+    "type": "table lamp",
+    "color": "opal white",
+    "dimensions": "9.8\" x 13.2\"",
+    "imgs": "imgs/panthella.png"
+  },
+  {
+    "id": "Scan-Coffee-Table",
+    "title": "Scan Coffee Table",
+    "designer": "Kardiel",
+    "type": "coffee table",
+    "color": "walnut",
+    "dimensions": "43.3\" x 28\" x 11.4\"",
+    "imgs": "imgs/kardiel.png"
+  },
+  {
+    "id": "Flowerpot-VP3",
+    "title": "Flowerpot VP3",
+    "designer": "Verner Panton",
+    "type": "table lamp",
+    "color": "vermilion red",
+    "dimensions": "9.1\" x 9.7\"",
+    "imgs": "imgs/flowerpot.png"
+  },
+  {
+    "id": "Eames-Lounge-Chair-and-Ottoman",
+    "title": "Eames Lounge Chair and Ottoman",
+    "designer": "Charles and Ray Eames",
+    "type": "loungue chair & ottoman",
+    "color": "walnut with MCL black leather",
+    "dimensions": "Standard Chair: 33.5\" x 35\" x 31.5\", Ottoman: 20.75\" x 21.5\" x 17.13\"",
+    "imgs": "imgs/eameslounge.png"
+  },
+  {
+    "id": "Devyn-Sectional-Sofa",
+    "title": "Devyn Sectional Sofa",
+    "designer": "Sixpenny",
+    "type": "sofa",
+    "color": "warm oatmeal",
+    "dimensions": "150\" x 46.5\" x 33\"",
+    "imgs": "imgs/sixpennysofa.png"
+  },
+  {
+    "id": "Akari-10D",
+    "title": "Akari 10D",
+    "designer": "Isamu Noguchi",
+    "type": "floor lamp",
+    "color": "10D",
+    "dimensions": "20.5\" x 20.5\" x 48\"",
+    "imgs": "imgs/akari10D.png"
+  },
+  {
+    "id": "Arco-Floor-Lamp",
+    "title": "Arco Floor Lamp",
+    "designer": "Achille Castiglioni and Pier Giacomo Castiglioni",
+    "type": "floor lamp",
+    "color": "metal with marble base",
+    "dimensions": "78.5\" x 95\"",
+    "imgs": "imgs/arco.png"
+  },
+  {
+    "id": "T-4112NA-ST",
+    "title": "T-4112NA-ST",
+    "designer": "Kenmochi Design Laboratory",
+    "type": "low shelf",
+    "color": "oak",
+    "dimensions": " 62.6\" x 17.72\" x 21\"",
+    "imgs": "imgs/tendolowshelf.png"
+  },
+  {
+    "id": "Eames-Wire-Base-Low-Table",
+    "title": "Eames Wire Base Low Table",
+    "designer": "Charles and Ray Eames",
+    "type": "low table",
+    "color": "black top with chrome base",
+    "dimensions": "15\" x 13.5\" x 10\"",
+    "imgs": "imgs/eameslowtable.png"
+  },
+  {
+    "id": "Petite-Potence",
+    "title": "Petite Potence",
+    "designer": "Jean Prouvé",
+    "type": "wall lamp",
+    "color": "deep black",
+    "dimensions": "5\" x 41\"",
+    "imgs": "imgs/petite.png"
+  },
+  {
+    "id": "Atollo-Table-Lamp",
+    "title": "Atollo Table Lamp",
+    "designer": "Vico Magistretti",
+    "type": "table lamp",
+    "color": "black metal",
+    "dimensions": "15\" x 19.75\"",
+    "imgs": "imgs/atollolamp.png"
+  },
+  {
+    "id": "Ferguson-3365",
+    "title": "Ferguson 3365",
+    "designer": "Ferguson",
+    "type": "radiogram",
+    "color": "sapele veneer",
+    "dimensions": "50\" x 16\" x 26\"",
+    "imgs": "imgs/radiogram.png"
+  },
+  {
+    "id": "USM-Haller-Storage-S2",
+    "title": "USM Haller Storage S2",
+    "designer": "Fritz Haller and Paul Schaerer",
+    "type": "storage & shelving",
+    "color": "graphite black",
+    "dimensions": "60\" x 15\" x 57\"",
+    "imgs": "imgs/usm.png"
+  },
+  {
+    "id": "Eames-Soft-Pad-Chair,-Management-Height",
+    "title": "Eames Soft Pad Chair, Management Height",
+    "designer": "Charles and Ray Eames",
+    "type": "chair",
+    "color": "black leather with polished aluminium frame",
+    "dimensions": "23\" x 17.75\" x 33.75\"",
+    "imgs": "imgs/eamespadchair.png"
+  },
+  {
+    "id": "Uten.Silo-II",
+    "title": "Uten.Silo II",
+    "designer": "Dorothee Becker",
+    "type": "organizer",
+    "color": "04 white",
+    "dimensions": "20\" x 26\"",
+    "imgs": "imgs/uten.png"
+  },
+  {
+    "id": "Mid-Century-Modern-Mobile",
+    "title": "Mid-Century Modern Mobile",
+    "designer": "France&Son.",
+    "type": "kinetic mobile",
+    "color": "multi-color",
+    "dimensions": "64\" x 50\"",
+    "imgs": "imgs/mobile.png"
+  },
+  {
+    "id": "PH-3/2-Table-Lamp",
+    "title": "PH 3/2 Table Lamp",
+    "designer": "Poul Henningsen",
+    "type": "table lamp",
+    "color": "chrome",
+    "dimensions": "11.3\" x 1.3\" x 18.6\"",
+    "imgs": "imgs/ph32.png"
+  },
+  {
+    "id": "Kartell-Componibili-Storage-Unit",
+    "title": "Kartell Componibili Storage Unit",
+    "designer": "Anna Castelli Ferrieri",
+    "type": "storage",
+    "color": "white",
+    "dimensions": "12.75\" x 12.75\" 23\"",
+    "imgs": "imgs/kartell.png"
+  },
+  {
+    "id": "Setago-Portable-Table-Lamp",
+    "title": "Setago Portable Table Lamp",
+    "designer": "Jaime Hayon",
+    "type": "table lamp",
+    "color": "tan/forest",
+    "dimensions": "7.1\" x 8.8\"",
+    "imgs": "imgs/setago.png"
+  },
+  {
+    "id": "Akari-UF5-33NW",
+    "title": "Akari UF5-33NW",
+    "designer": "Isamu Noguchi",
+    "type": "floor lamp",
+    "color": "UF5-33NW",
+    "dimensions": "27.5\" x 78.7\"",
+    "imgs": "imgs/akariuf5.png"
+  },
+  {
+    "id": "Nelson-Platform-Bench,-Wood-Base",
+    "title": "Nelson Platform Bench, Wood Base",
+    "designer": "George Nelson",
+    "type": "bench",
+    "color": "walnut",
+    "dimensions": "60\" x 18.11\" x 13.87\"",
+    "imgs": "imgs/bench.png"
+  },
+  {
+    "id": "TOGO-Fireside-Chair",
+    "title": "TOGO Fireside Chair",
+    "designer": "Michel Ducaroy",
+    "type": "chair",
+    "color": "sea sand",
+    "dimensions": "34\" x 40\" x 28\"",
+    "imgs": "imgs/togo.png"
+  },
+  {
+    "id": "Artek-Aalto-Screen-100",
+    "title": "Artek Aalto Screen 100",
+    "designer": "Alvar Aalto",
+    "type": "screen",
+    "color": "pine wood",
+    "dimensions": "78.75\" x 59\"",
+    "imgs": "imgs/artek.png"
+  },
+  {
+    "id": "Hovet",
+    "title": "Hovet",
+    "designer": "IKEA",
+    "type": "mirror",
+    "color": "black",
+    "dimensions": "30\" x 77\"",
+    "imgs": "imgs/hovet.png"
+  },
+  {
+    "id": "Kira-Bed",
+    "title": "Kira Bed",
+    "designer": "Sun at Six Design Studio",
+    "type": "platform bed",
+    "color": "nude",
+    "dimensions": "93\"x 97\" x 7.75\"",
+    "imgs": "imgs/bed.png"
+  },
+  {
+    "id": "Eames-Molded-Plywood-Lounge-Chair",
+    "title": "Eames Molded Plywood Lounge Chair",
+    "designer": "Charles and Ray Eames",
+    "type": "chair",
+    "color": "walnut",
+    "dimensions": "21.65\" x 25.2\" x 26.38\"",
+    "imgs": "imgs/eamesply.png"
+  },
+  {
+    "id": "Anton-Solid-Wood-Dining-Table",
+    "title": "Anton Solid Wood Dining Table",
+    "designer": "west elm",
+    "type": "dining table",
+    "color": "burnt wax",
+    "dimensions": "72\" x 39\" x 30\"",
+    "imgs": "imgs/diningtable.png"
+  },
+  {
+    "id": "Mid-Century-Foldable-Bar-Cart",
+    "title": "Mid-Century Foldable Bar Cart",
+    "designer": "La Maison Dinett",
+    "type": "bar cart",
+    "color": "formica",
+    "dimensions": "26\" x 16.25\" x 27.15\"",
+    "imgs": "imgs/cart.png"
+  },
+  {
+    "id": "Small-Nassau-Classic-Vase",
+    "title": "Small Nassau Classic Vase",
+    "designer": "Sirius Glassworks",
+    "type": "vase",
+    "color": "multi-color",
+    "dimensions": "n/a",
+    "imgs": "imgs/vase.png"
+  },
+  {
+    "id": "Series-7-Chair",
+    "title": "Series 7 Chair",
+    "designer": "Arne Jacobsen",
+    "type": "chair",
+    "color": "oak",
+    "dimensions": "20\" x 25.5\" x 32.5\"",
+    "imgs": "imgs/series7.png"
+  },
+  {
+    "id": "Jeanneret-Pj-Si-28-A-Chair",
+    "title": "Jeanneret Pj-Si-28-A Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "20.25\" x 21\" x 32\"",
+    "imgs": "imgs/chairjarm.png"
+  },
+  {
+    "id": "Jeanneret-Armless-Dining-Chair",
+    "title": "Jeanneret Armless Dining Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "16\" x 17\" x 30\"",
+    "imgs": "imgs/chairj.png"
+  },
+  {
+    "id": "Wassily™-Chair",
+    "title": "Wassily™ Chair",
+    "designer": "Marcel Breuer",
+    "type": "chair",
+    "color": "black",
+    "dimensions": "31\" x 27\" x 28.75\"",
+    "imgs": "imgs/wassily.png"
+  }
+ ]

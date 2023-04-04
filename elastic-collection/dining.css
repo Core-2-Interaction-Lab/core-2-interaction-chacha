@@ -1,3 +1,7 @@
+:root {
+	--spacing: 1em;
+}
+
 @font-face {
     font-family: "ppobjects";
     src: url(ppobjects.otf);
@@ -9,36 +13,22 @@ body{
     letter-spacing: 4px;
 }
 
-:root {
-	--spacing: 1em;
-}
-
-
-
 .container{
     font-weight: 400;
     padding: 30px 90px;
     font-size: 35px;
     justify-content: space-between;
-    border-bottom: 1px solid currentColor;
-    font-size: 50px;
-    padding: 10px 30px;
-    margin-bottom: calc(1 * var(--spacing));
-    display: flex;
-    flex-direction: column;
-    padding: 30px;
 }
 
-p{
-    font-size: 15px;
-    letter-spacing: 1.5px;
-    margin-bottom: 30px;
+.collection{
     
-
 }
 
 h1{
-    padding: 50px 30px;
+    border-bottom: 1px solid currentColor;
+    font-size: 50px;
+    padding: 10px 30px;
+    margin-bottom: calc(4 * var(--spacing));
 
 }
 
@@ -60,7 +50,7 @@ li {
 }
  
 img {
-    width: 200px;
+    width: 250px;
 
 }
 

@@ -1,0 +1,56 @@
+[
+{
+    "id": "Anton-Solid-Wood-Dining-Table",
+    "title": "Anton Solid Wood Dining Table",
+    "designer": "west elm",
+    "type": "dining table",
+    "color": "burnt wax",
+    "dimensions": "72\" x 39\" x 30\"",
+    "imgs": "imgs/diningtable.png"
+  },
+  {
+    "id": "Mid-Century-Foldable-Bar-Cart",
+    "title": "Mid-Century Foldable Bar Cart",
+    "designer": "La Maison Dinett",
+    "type": "bar cart",
+    "color": "formica",
+    "dimensions": "26\" x 16.25\" x 27.15\"",
+    "imgs": "imgs/cart.png"
+  },
+  {
+    "id": "Small-Nassau-Classic-Vase",
+    "title": "Small Nassau Classic Vase",
+    "designer": "Sirius Glassworks",
+    "type": "vase",
+    "color": "multi-color",
+    "dimensions": "n/a",
+    "imgs": "imgs/vase.png"
+  },
+  {
+    "id": "Series-7-Chair",
+    "title": "Series 7 Chair",
+    "designer": "Arne Jacobsen",
+    "type": "chair",
+    "color": "oak",
+    "dimensions": "20\" x 25.5\" x 32.5\"",
+    "imgs": "imgs/series7.png"
+  },
+  {
+    "id": "Jeanneret-Pj-Si-28-A-Chair",
+    "title": "Jeanneret Pj-Si-28-A Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "20.25\" x 21\" x 32\"",
+    "imgs": "imgs/chairjarm.png"
+  },
+  {
+    "id": "Jeanneret-Armless-Dining-Chair",
+    "title": "Jeanneret Armless Dining Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "16\" x 17\" x 30\"",
+    "imgs": "imgs/chairj.png"
+  }
+]

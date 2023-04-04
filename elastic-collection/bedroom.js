@@ -41,7 +41,7 @@ const renderItems = (collection) => {
 }
 
 // Fetch gets your JSON file…
-fetch('collection.json')
+fetch('bedroom.json')
 	.then(response => response.json())
 	.then(collection => {
 		// And passes the data to the function, above!

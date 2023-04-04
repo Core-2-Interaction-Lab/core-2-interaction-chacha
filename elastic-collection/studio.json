@@ -1,0 +1,65 @@
+[
+    {
+    "id": "USM-Haller-Storage-S2",
+    "title": "USM Haller Storage S2",
+    "designer": "Fritz Haller and Paul Schaerer",
+    "type": "storage & shelving",
+    "color": "graphite black",
+    "dimensions": "60\" x 15\" x 57\"",
+    "imgs": "imgs/usm.png"
+  },
+  {
+    "id": "Eames-Soft-Pad-Chair,-Management-Height",
+    "title": "Eames Soft Pad Chair, Management Height",
+    "designer": "Charles and Ray Eames",
+    "type": "chair",
+    "color": "black leather with polished aluminium frame",
+    "dimensions": "23\" x 17.75\" x 33.75\"",
+    "imgs": "imgs/eamespadchair.png"
+  },
+  {
+    "id": "Uten.Silo-II",
+    "title": "Uten.Silo II",
+    "designer": "Dorothee Becker",
+    "type": "organizer",
+    "color": "04 white",
+    "dimensions": "20\" x 26\"",
+    "imgs": "imgs/uten.png"
+  },
+  {
+    "id": "Mid-Century-Modern-Mobile",
+    "title": "Mid-Century Modern Mobile",
+    "designer": "France&Son.",
+    "type": "kinetic mobile",
+    "color": "multi-color",
+    "dimensions": "64\" x 50\"",
+    "imgs": "imgs/mobile.png"
+  },
+  {
+    "id": "PH-3/2-Table-Lamp",
+    "title": "PH 3/2 Table Lamp",
+    "designer": "Poul Henningsen",
+    "type": "table lamp",
+    "color": "chrome",
+    "dimensions": "11.3\" x 1.3\" x 18.6\"",
+    "imgs": "imgs/ph32.png"
+  },
+  {
+    "id": "Kartell-Componibili-Storage-Unit",
+    "title": "Kartell Componibili Storage Unit",
+    "designer": "Anna Castelli Ferrieri",
+    "type": "storage",
+    "color": "white",
+    "dimensions": "12.75\" x 12.75\" 23\"",
+    "imgs": "imgs/kartell.png"
+  },
+  {
+    "id": "Wassily™-Chair",
+    "title": "Wassily™ Chair",
+    "designer": "Marcel Breuer",
+    "type": "chair",
+    "color": "black",
+    "dimensions": "31\" x 27\" x 28.75\"",
+    "imgs": "imgs/wassily.png"
+  }
+ ]

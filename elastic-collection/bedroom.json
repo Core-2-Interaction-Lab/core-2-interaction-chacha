@@ -1,0 +1,74 @@
+[
+    {
+    "id": "Setago-Portable-Table-Lamp",
+    "title": "Setago Portable Table Lamp",
+    "designer": "Jaime Hayon",
+    "type": "table lamp",
+    "color": "tan/forest",
+    "dimensions": "7.1\" x 8.8\"",
+    "imgs": "imgs/setago.png"
+  },
+  {
+    "id": "Akari-UF5-33NW",
+    "title": "Akari UF5-33NW",
+    "designer": "Isamu Noguchi",
+    "type": "floor lamp",
+    "color": "UF5-33NW",
+    "dimensions": "27.5\" x 78.7\"",
+    "imgs": "imgs/akariuf5.png"
+  },
+  {
+    "id": "Nelson-Platform-Bench,-Wood-Base",
+    "title": "Nelson Platform Bench, Wood Base",
+    "designer": "George Nelson",
+    "type": "bench",
+    "color": "walnut",
+    "dimensions": "60\" x 18.11\" x 13.87\"",
+    "imgs": "imgs/bench.png"
+  },
+  {
+    "id": "TOGO-Fireside-Chair",
+    "title": "TOGO Fireside Chair",
+    "designer": "Michel Ducaroy",
+    "type": "chair",
+    "color": "sea sand",
+    "dimensions": "34\" x 40\" x 28\"",
+    "imgs": "imgs/togo.png"
+  },
+  {
+    "id": "Artek-Aalto-Screen-100",
+    "title": "Artek Aalto Screen 100",
+    "designer": "Alvar Aalto",
+    "type": "screen",
+    "color": "pine wood",
+    "dimensions": "78.75\" x 59\"",
+    "imgs": "imgs/artek.png"
+  },
+  {
+    "id": "Hovet",
+    "title": "Hovet",
+    "designer": "IKEA",
+    "type": "mirror",
+    "color": "black",
+    "dimensions": "30\" x 77\"",
+    "imgs": "imgs/hovet.png"
+  },
+  {
+    "id": "Kira-Bed",
+    "title": "Kira Bed",
+    "designer": "Sun at Six Design Studio",
+    "type": "platform bed",
+    "color": "nude",
+    "dimensions": "93\"x 97\" x 7.75\"",
+    "imgs": "imgs/bed.png"
+  },
+  {
+    "id": "Eames-Molded-Plywood-Lounge-Chair",
+    "title": "Eames Molded Plywood Lounge Chair",
+    "designer": "Charles and Ray Eames",
+    "type": "chair",
+    "color": "walnut",
+    "dimensions": "21.65\" x 25.2\" x 26.38\"",
+    "imgs": "imgs/eamesply.png"
+  }
+]
