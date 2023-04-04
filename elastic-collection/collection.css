@@ -32,7 +32,7 @@ body{
 p{
     font-size: 15px;
     letter-spacing: 1.5px;
-    margin-bottom: 30px;
+    
     
 
 }
@@ -99,14 +99,40 @@ img .Panthella-Table-Lamp{
 
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+
 	ul {
-		grid-template-columns: 1fr;
+		grid-template-columns: 1fr 1fr;
 	}
 
     li {
         margin-top: calc(2 * var(--spacing));
-        margin-left: calc(5 * var(--spacing));
+        margin-left: calc(2 * var(--spacing));
+        margin-right: calc(2 * var(--spacing));
         
     }
+
+    .container{
+        padding: 30px 50px;
+        font-size: 35px;
+    }
+
+
+    img{
+        width: 150px;
+    }
+
+    .button{
+        font-size: 17px;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: column;
+        gap: calc(2 * var(--spacing));
+    }
+}
+
+p{
+    font-size: 14px;
 }
