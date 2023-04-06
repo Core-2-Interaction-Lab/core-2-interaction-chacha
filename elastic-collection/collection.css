@@ -57,9 +57,7 @@ ul {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
     border-top: 0.5px solid;
-    border-bottom: 0.5px solid;
     border-left: 0.5px solid;
-    border-right: 0.5px solid;
 	list-style: none;
     transition: .5s;
 }
@@ -73,9 +71,9 @@ li {
 	display: flex;
 	flex-direction: column;
 	gap: calc(1 * var(--spacing));
-    border-top: 0.5px solid;
+    
     border-bottom: 0.5px solid;
-    border-left: 0.5px solid;
+   
     border-right: 0.5px solid;
  
     
@@ -263,6 +261,7 @@ a:hover{
         flex-direction: row;
         gap: calc(1 * var(--spacing));
         justify-content: space-between;
+        padding: 0px 19px 10px;
     }
 }
 

@@ -109,6 +109,33 @@
     "imgs": "imgs/akariuf5.png"
   },
   {
+    "id": "Ferguson-3365",
+    "title": "Ferguson 3365",
+    "designer": "Ferguson",
+    "type": "radiogram",
+    "color": "sapele veneer",
+    "dimensions": "50\" x 16\" x 26\"",
+    "imgs": "imgs/radiogram.png"
+  },
+  {
+    "id": "Artek-Aalto-Screen-100",
+    "title": "Artek Aalto Screen 100",
+    "designer": "Alvar Aalto",
+    "type": "screen",
+    "color": "pine wood",
+    "dimensions": "78.75\" x 59\"",
+    "imgs": "imgs/artek.png"
+  },
+  {
+    "id": "Petite-Potence",
+    "title": "Petite Potence",
+    "designer": "Jean Prouvé",
+    "type": "wall lamp",
+    "color": "deep black",
+    "dimensions": "5\" x 41\"",
+    "imgs": "imgs/petite.png"
+  },
+  {
     "id": "Eames-Lounge-Chair-and-Ottoman",
     "title": "Eames Lounge Chair and Ottoman",
     "designer": "Charles and Ray Eames",
@@ -116,6 +143,15 @@
     "color": "walnut with MCL black leather",
     "dimensions": "Standard Chair: 33.5\" x 35\" x 31.5\", Ottoman: 20.75\" x 21.5\" x 17.13\"",
     "imgs": "imgs/eameslounge.png"
+  },
+  {
+    "id": "Jeanneret-Pj-Si-28-A-Chair",
+    "title": "Jeanneret Pj-Si-28-A Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "20.25\" x 21\" x 32\"",
+    "imgs": "imgs/chairjarm.png"
   },
   {
     "id": "Devyn-Sectional-Sofa",
@@ -145,15 +181,6 @@
     "imgs": "imgs/tendolowshelf.png"
   },
   {
-    "id": "Petite-Potence",
-    "title": "Petite Potence",
-    "designer": "Jean Prouvé",
-    "type": "wall lamp",
-    "color": "deep black",
-    "dimensions": "5\" x 41\"",
-    "imgs": "imgs/petite.png"
-  },
-  {
     "id": "Atollo-Table-Lamp",
     "title": "Atollo Table Lamp",
     "designer": "Vico Magistretti",
@@ -161,15 +188,6 @@
     "color": "black metal",
     "dimensions": "15\" x 19.75\"",
     "imgs": "imgs/atollolamp.png"
-  },
-  {
-    "id": "Ferguson-3365",
-    "title": "Ferguson 3365",
-    "designer": "Ferguson",
-    "type": "radiogram",
-    "color": "sapele veneer",
-    "dimensions": "50\" x 16\" x 26\"",
-    "imgs": "imgs/radiogram.png"
   },
   {
     "id": "USM-Haller-Storage-S2",
@@ -217,15 +235,6 @@
     "imgs": "imgs/togo.png"
   },
   {
-    "id": "Artek-Aalto-Screen-100",
-    "title": "Artek Aalto Screen 100",
-    "designer": "Alvar Aalto",
-    "type": "screen",
-    "color": "pine wood",
-    "dimensions": "78.75\" x 59\"",
-    "imgs": "imgs/artek.png"
-  },
-  {
     "id": "Hovet",
     "title": "Hovet",
     "designer": "IKEA",
@@ -270,15 +279,6 @@
     "color": "multi-color",
     "dimensions": "n/a",
     "imgs": "imgs/vase.png"
-  },
-  {
-    "id": "Jeanneret-Pj-Si-28-A-Chair",
-    "title": "Jeanneret Pj-Si-28-A Chair",
-    "designer": "Pierre Jeanneret",
-    "type": "chair",
-    "color": "cane, teak",
-    "dimensions": "20.25\" x 21\" x 32\"",
-    "imgs": "imgs/chairjarm.png"
   },
   {
     "id": "Jeanneret-Armless-Dining-Chair",
