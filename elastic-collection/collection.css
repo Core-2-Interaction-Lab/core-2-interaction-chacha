@@ -129,7 +129,7 @@ img {
  font-weight: 300;
  font-size: 35px;
  align-items: center;
- margin: 26px 0px 0px;
+ margin: 26px 20px 0px;
  
 }
 
@@ -232,6 +232,7 @@ a:hover{
     .des{
         font-size: 14px;
         line-height: 19px;
+        
 
     }
 
