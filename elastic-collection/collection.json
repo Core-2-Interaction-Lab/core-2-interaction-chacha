@@ -15,7 +15,8 @@
     "type": "coffee table",
     "color": "walnut",
     "dimensions": "43.3\" x 28\" x 11.4\"",
-    "imgs": "imgs/kardiel.png"
+    "imgs": "imgs/kardiel.png",
+    "aspectRatio": "horizontal"
   },
   {
     "id": "Flowerpot-VP3",

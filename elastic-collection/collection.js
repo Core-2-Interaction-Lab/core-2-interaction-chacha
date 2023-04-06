@@ -21,10 +21,12 @@ const renderItems = (collection) => {
 		// This can get annoying, so we can use “template literals” instead
 		const itemDetails =
 			`
-				<p> Designed by <span>${item.designer}</span></p>
-				<p> Category: ${item.type}</p>
-                <p>Color: ${item.color}</p>
-                <p>Dimension: ${item.dimensions}</p>
+			<div class="text">
+			<div class="t">Designed by <span>${item.designer}</span></div>
+			<div class="t">Category: ${item.type}</div>
+			<div class="t">Color: ${item.color}</div>
+			<div class="t">Dimension: ${item.dimensions}</div>
+			</div>
 				
 			`
             
@@ -47,3 +49,37 @@ fetch('collection.json')
 		// And passes the data to the function, above!
 		renderItems(collection) // In reverse order
 })
+
+
+// FILTER
+
+const filterButtons = document.querySelectorAll('.filter-button');
+
+const toggleRapper = (elements, showHide) => {
+    // do something
+    elements.forEach(el => {
+        if (showHide == 'show') {
+            el.classList.remove('is-hidden');
+        } else {
+            el.classList.add('is-hidden');
+        }
+    });
+};
+
+filterButtons.forEach(button => {
+    // click on filter button
+    button.addEventListener('click', () => {
+        // get the data-attribute
+        const filterValue = button.getAttribute('data-filter');
+        // find all of the matching rappers (any grid item that has the same data-attribute)
+        const matchingRappers = document.querySelectorAll(`.grid-item[data-filter="${filterValue}"]`);
+        // first, loop through EVERYTHING and assume it doesn't match (i.e. hide it)
+        toggleRapper(rappers, 'hide');
+        // second, loop through MATCHING elements and show them (remove the 'is-hidden' class we just applied)
+        toggleRapper(matchingRappers, 'show');
+
+        if (button.getAttribute('data-filter') == 'All') {
+            toggleRapper(rappers, 'show');
+        };
+    });
+});
