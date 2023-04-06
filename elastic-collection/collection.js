@@ -7,9 +7,9 @@ const renderItems = (collection) => {
 		const listItem = document.createElement('li') // Make the `li`
 
 		// You can make each element inside of that…
-		const itemTitle = document.createElement('h2') // Make an `h2`
-		itemTitle.innerHTML = item.title // Put the JSON title inside
-		listItem.appendChild(itemTitle) // And add it to the `li`!
+		//const itemTitle = document.createElement('h2') // Make an `h2`
+	//	itemTitle.innerHTML = item.title // Put the JSON title inside
+		//listItem.appendChild(itemTitle) // And add it to the `li`!
 
 		const itemImage = document.createElement('img') // And an image
 		itemImage.src = item.imgs // Set the `src` attribute from the JSON
@@ -21,7 +21,9 @@ const renderItems = (collection) => {
 		// This can get annoying, so we can use “template literals” instead
 		const itemDetails =
 			`
+			
 			<div class="text">
+			<div class="name">${item.title}</div>
 			<div class="t">Designed by <span>${item.designer}</span></div>
 			<div class="t">Category: ${item.type}</div>
 			<div class="t">Color: ${item.color}</div>

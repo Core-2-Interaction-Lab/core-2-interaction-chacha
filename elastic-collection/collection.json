@@ -1,12 +1,57 @@
 [
   {
-    "id": "Panthella-Table-Lamp",
-    "title": "Panthella Table Lamp",
+    "id": "Akari-10D",
+    "title": "Akari 10D",
+    "designer": "Isamu Noguchi",
+    "type": "floor lamp",
+    "color": "10D",
+    "dimensions": "20.5\" x 20.5\" x 48\"",
+    "imgs": "imgs/akari10D.png"
+  },
+  {
+    "id": "Eames-Wire-Base-Low-Table",
+    "title": "Eames Wire Base Low Table",
+    "designer": "Charles and Ray Eames",
+    "type": "low table",
+    "color": "black top with chrome base",
+    "dimensions": "15\" x 13.5\" x 10\"",
+    "imgs": "imgs/eameslowtable.png"
+  },
+  {
+    "id": "Series-7-Chair",
+    "title": "Series 7 Chair",
+    "designer": "Arne Jacobsen",
+    "type": "chair",
+    "color": "oak",
+    "dimensions": "20\" x 25.5\" x 32.5\"",
+    "imgs": "imgs/series7.png"
+  },
+  {
+    "id": "Mid-Century-Modern-Mobile",
+    "title": "Mid-Century Modern Mobile",
+    "designer": "France&Son.",
+    "type": "kinetic mobile",
+    "color": "multi-color",
+    "dimensions": "64\" x 50\"",
+    "imgs": "imgs/mobile.png"
+  },
+  {
+    "id": "Flowerpot-VP3",
+    "title": "Flowerpot VP3",
     "designer": "Verner Panton",
     "type": "table lamp",
-    "color": "opal white",
-    "dimensions": "9.8\" x 13.2\"",
-    "imgs": "imgs/panthella.png"
+    "color": "vermilion red",
+    "dimensions": "9.1\" x 9.7\"",
+    "imgs": "imgs/flowerpot.png"
+  },
+  {
+    "id": "Kartell-Componibili-Storage-Unit",
+    "title": "Kartell Componibili Storage Unit",
+    "designer": "Anna Castelli Ferrieri",
+    "type": "storage",
+    "color": "white",
+    "dimensions": "12.75\" x 12.75\" 23\"",
+    "imgs": "imgs/kartell.png"
   },
   {
     "id": "Scan-Coffee-Table",
@@ -19,13 +64,49 @@
     "aspectRatio": "horizontal"
   },
   {
-    "id": "Flowerpot-VP3",
-    "title": "Flowerpot VP3",
+    "id": "Panthella-Table-Lamp",
+    "title": "Panthella Table Lamp",
     "designer": "Verner Panton",
     "type": "table lamp",
-    "color": "vermilion red",
-    "dimensions": "9.1\" x 9.7\"",
-    "imgs": "imgs/flowerpot.png"
+    "color": "opal white",
+    "dimensions": "9.8\" x 13.2\"",
+    "imgs": "imgs/panthella.png"
+  },
+  {
+    "id": "Eames-Molded-Plywood-Lounge-Chair",
+    "title": "Eames Molded Plywood Lounge Chair",
+    "designer": "Charles and Ray Eames",
+    "type": "chair",
+    "color": "walnut",
+    "dimensions": "21.65\" x 25.2\" x 26.38\"",
+    "imgs": "imgs/eamesply.png"
+  },
+  {
+    "id": "Uten.Silo-II",
+    "title": "Uten.Silo II",
+    "designer": "Dorothee Becker",
+    "type": "organizer",
+    "color": "04 white",
+    "dimensions": "20\" x 26\"",
+    "imgs": "imgs/uten.png"
+  },
+  {
+    "id": "Nelson-Platform-Bench,-Wood-Base",
+    "title": "Nelson Platform Bench, Wood Base",
+    "designer": "George Nelson",
+    "type": "bench",
+    "color": "walnut",
+    "dimensions": "60\" x 18.11\" x 13.87\"",
+    "imgs": "imgs/bench.png"
+  },
+  {
+    "id": "Akari-UF5-33NW",
+    "title": "Akari UF5-33NW",
+    "designer": "Isamu Noguchi",
+    "type": "floor lamp",
+    "color": "UF5-33NW",
+    "dimensions": "27.5\" x 78.7\"",
+    "imgs": "imgs/akariuf5.png"
   },
   {
     "id": "Eames-Lounge-Chair-and-Ottoman",
@@ -46,15 +127,6 @@
     "imgs": "imgs/sixpennysofa.png"
   },
   {
-    "id": "Akari-10D",
-    "title": "Akari 10D",
-    "designer": "Isamu Noguchi",
-    "type": "floor lamp",
-    "color": "10D",
-    "dimensions": "20.5\" x 20.5\" x 48\"",
-    "imgs": "imgs/akari10D.png"
-  },
-  {
     "id": "Arco-Floor-Lamp",
     "title": "Arco Floor Lamp",
     "designer": "Achille Castiglioni and Pier Giacomo Castiglioni",
@@ -71,15 +143,6 @@
     "color": "oak",
     "dimensions": " 62.6\" x 17.72\" x 21\"",
     "imgs": "imgs/tendolowshelf.png"
-  },
-  {
-    "id": "Eames-Wire-Base-Low-Table",
-    "title": "Eames Wire Base Low Table",
-    "designer": "Charles and Ray Eames",
-    "type": "low table",
-    "color": "black top with chrome base",
-    "dimensions": "15\" x 13.5\" x 10\"",
-    "imgs": "imgs/eameslowtable.png"
   },
   {
     "id": "Petite-Potence",
@@ -127,24 +190,6 @@
     "imgs": "imgs/eamespadchair.png"
   },
   {
-    "id": "Uten.Silo-II",
-    "title": "Uten.Silo II",
-    "designer": "Dorothee Becker",
-    "type": "organizer",
-    "color": "04 white",
-    "dimensions": "20\" x 26\"",
-    "imgs": "imgs/uten.png"
-  },
-  {
-    "id": "Mid-Century-Modern-Mobile",
-    "title": "Mid-Century Modern Mobile",
-    "designer": "France&Son.",
-    "type": "kinetic mobile",
-    "color": "multi-color",
-    "dimensions": "64\" x 50\"",
-    "imgs": "imgs/mobile.png"
-  },
-  {
     "id": "PH-3/2-Table-Lamp",
     "title": "PH 3/2 Table Lamp",
     "designer": "Poul Henningsen",
@@ -154,15 +199,6 @@
     "imgs": "imgs/ph32.png"
   },
   {
-    "id": "Kartell-Componibili-Storage-Unit",
-    "title": "Kartell Componibili Storage Unit",
-    "designer": "Anna Castelli Ferrieri",
-    "type": "storage",
-    "color": "white",
-    "dimensions": "12.75\" x 12.75\" 23\"",
-    "imgs": "imgs/kartell.png"
-  },
-  {
     "id": "Setago-Portable-Table-Lamp",
     "title": "Setago Portable Table Lamp",
     "designer": "Jaime Hayon",
@@ -170,24 +206,6 @@
     "color": "tan/forest",
     "dimensions": "7.1\" x 8.8\"",
     "imgs": "imgs/setago.png"
-  },
-  {
-    "id": "Akari-UF5-33NW",
-    "title": "Akari UF5-33NW",
-    "designer": "Isamu Noguchi",
-    "type": "floor lamp",
-    "color": "UF5-33NW",
-    "dimensions": "27.5\" x 78.7\"",
-    "imgs": "imgs/akariuf5.png"
-  },
-  {
-    "id": "Nelson-Platform-Bench,-Wood-Base",
-    "title": "Nelson Platform Bench, Wood Base",
-    "designer": "George Nelson",
-    "type": "bench",
-    "color": "walnut",
-    "dimensions": "60\" x 18.11\" x 13.87\"",
-    "imgs": "imgs/bench.png"
   },
   {
     "id": "TOGO-Fireside-Chair",
@@ -225,15 +243,7 @@
     "dimensions": "93\"x 97\" x 7.75\"",
     "imgs": "imgs/bed.png"
   },
-  {
-    "id": "Eames-Molded-Plywood-Lounge-Chair",
-    "title": "Eames Molded Plywood Lounge Chair",
-    "designer": "Charles and Ray Eames",
-    "type": "chair",
-    "color": "walnut",
-    "dimensions": "21.65\" x 25.2\" x 26.38\"",
-    "imgs": "imgs/eamesply.png"
-  },
+  
   {
     "id": "Anton-Solid-Wood-Dining-Table",
     "title": "Anton Solid Wood Dining Table",
@@ -260,15 +270,6 @@
     "color": "multi-color",
     "dimensions": "n/a",
     "imgs": "imgs/vase.png"
-  },
-  {
-    "id": "Series-7-Chair",
-    "title": "Series 7 Chair",
-    "designer": "Arne Jacobsen",
-    "type": "chair",
-    "color": "oak",
-    "dimensions": "20\" x 25.5\" x 32.5\"",
-    "imgs": "imgs/series7.png"
   },
   {
     "id": "Jeanneret-Pj-Si-28-A-Chair",

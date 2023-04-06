@@ -32,12 +32,23 @@ body{
     font-size: 50px;
     padding-bottom: 8px;
     letter-spacing: 7px;
+    transition: .5s;
 }
+
+.title:hover{
+    letter-spacing: 18px;
+}
+
 
 .des{
     font-size: 17px;
     letter-spacing: 1px;
     line-height: 24px;
+    transition: .5s;
+}
+
+.des:hover{
+    letter-spacing: 3px;
 }
 
 
@@ -50,8 +61,9 @@ ul {
     border-left: 0.5px solid;
     border-right: 0.5px solid;
 	list-style: none;
-    
+    transition: .5s;
 }
+
 
 /*
 gap: calc(4 * var(--spacing));
@@ -65,16 +77,21 @@ li {
     border-bottom: 0.5px solid;
     border-left: 0.5px solid;
     border-right: 0.5px solid;
-  
+ 
     
 }
 
-h2{
+.name{
    
-   
-    margin-left: 20%;
+   font-size: 24px;
+    margin: 3px;
+    margin-bottom: 10px;
+    line-height: 28px;
+    transition: .5s;
   
 }
+
+
 
 
 /*
@@ -87,13 +104,14 @@ margin-left: calc(2 * var(--spacing));
     flex-direction: column;
     margin: 15px;
     margin-top: 10px;
-   
     
 }
+
 
 .t{
     font-size: 13px;
     margin: 3px;
+    transition: .5s;
 }
  
 img {
@@ -139,6 +157,29 @@ img {
    
 }
 
+.change{
+    position: fixed;
+    background-color: black; 
+    border-radius: 50%;
+    color: black;
+    padding: 24px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    right: 0;
+    transition: 0.4s ease-in-out;
+    bottom: 0;
+    margin: 20px;
+}
+
+.change:hover{
+    background-color: #f2efe3;
+    color: black;
+    border: 1.4px solid;
+
+}
+
+
 .buttons {
     display: flex;
     flex-direction: row;
@@ -169,6 +210,7 @@ a:hover{
 
     img{
         width: 150px;
+        margin-left: 14%;
     }
 
 	ul {
@@ -185,7 +227,7 @@ a:hover{
     }
 
     .title{
-        font-size: 40px;
+        font-size: 32px;
 
     }
 
@@ -200,9 +242,6 @@ a:hover{
     }
 
 
-    .img{
-        width: 150px;
-    }
     
     .p{
         font-size: 15px;
