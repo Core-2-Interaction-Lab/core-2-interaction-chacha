@@ -45,6 +45,7 @@ body{
     letter-spacing: 1px;
     line-height: 24px;
     transition: .5s;
+
 }
 
 .des:hover{
@@ -60,6 +61,12 @@ ul {
     border-left: 0.5px solid;
 	list-style: none;
     transition: .5s;
+    top: 200px;
+   
+}
+
+.collection{
+    margin-top: 200px;
 }
 
 
@@ -115,21 +122,29 @@ margin-left: calc(2 * var(--spacing));
 img {
     width: 300px;
     margin-left: 25%;
+    transition: .7s;
     
-   
 }
 
-.tap{
+img:hover{
+    filter:blur(4px);
+}
+
+
+
+
+.tab{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
+
 .p{
  font-weight: 300;
  font-size: 35px;
  align-items: center;
- margin: 26px 20px 0px;
+ margin: 26px 10px 0px;
  
 }
 
@@ -152,6 +167,20 @@ img {
 .button:hover{
     background-color: black;
     color: #f2efe3;
+    border-color: black;
+   
+}
+
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    gap: calc(2 * var(--spacing));
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0px 0px 0px;
    
 }
 
@@ -175,18 +204,6 @@ img {
     color: black;
     border: 1.4px solid;
 
-}
-
-
-.buttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-    align-items: center;
-    gap: calc(2 * var(--spacing));
-    margin-bottom: 20px;
-    margin-top: 20px;
-    padding: 0px 30px 10px;
 }
 
 .back{

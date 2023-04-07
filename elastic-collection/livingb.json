@@ -1,0 +1,130 @@
+[
+    {
+        "id": "Eames-Wire-Base-Low-Table",
+        "title": "Eames Wire Base Low Table",
+        "designer": "Charles and Ray Eames",
+        "type": "low table",
+        "color": "black top with chrome base",
+        "dimensions": "15\" x 13.5\" x 10\"",
+        "imgs": "imgs/eameslowtable.png"
+      },
+      {
+        "id": "Petite-Potence",
+        "title": "Petite Potence",
+        "designer": "Jean Prouvé",
+        "type": "wall lamp",
+        "color": "deep black",
+        "dimensions": "5\" x 41\"",
+        "imgs": "imgs/petite.png"
+      },
+   
+      {
+        "id": "Ferguson-3365",
+        "title": "Ferguson 3365",
+        "designer": "Ferguson",
+        "type": "radiogram",
+        "color": "sapele veneer",
+        "dimensions": "50\" x 16\" x 26\"",
+        "imgs": "imgs/radiogram.png"
+      },
+      {
+        "id": "Noguchi-Coffee-Table",
+        "title": "Noguchi Coffee Table",
+        "designer": "Isamu Noguchi",
+        "type": "coffee table",
+        "color": "walnut",
+        "dimensions": "50\" x 36\" x 15.75\"",
+        "imgs": "imgs/noguchi.png"
+      },
+    {
+        "id": "Atollo-Table-Lamp",
+        "title": "Atollo Table Lamp",
+        "designer": "Vico Magistretti",
+        "type": "table lamp",
+        "color": "black metal",
+        "dimensions": "15\" x 19.75\"",
+        "imgs": "imgs/atollolamp.png"
+      },
+      {
+        "id": "Akari-10D",
+        "title": "Akari 10D",
+        "designer": "Isamu Noguchi",
+        "type": "floor lamp",
+        "color": "10D",
+        "dimensions": "20.5\" x 20.5\" x 48\"",
+        "imgs": "imgs/akari10D.png"
+      },
+    {
+      "id": "Scan-Coffee-Table",
+      "title": "Scan Coffee Table",
+      "designer": "Kardiel",
+      "type": "coffee table",
+      "color": "walnut",
+      "dimensions": "43.3\" x 28\" x 11.4\"",
+      "imgs": "imgs/kardiel.png"
+    },
+
+    {
+      "id": "Eames-Lounge-Chair-and-Ottoman",
+      "title": "Eames Lounge Chair and Ottoman",
+      "designer": "Charles and Ray Eames",
+      "type": "loungue chair & ottoman",
+      "color": "walnut with MCL black leather",
+      "dimensions": "Standard Chair: 33.5\" x 35\" x 31.5\", Ottoman: 20.75\" x 21.5\" x 17.13\"",
+      "imgs": "imgs/eameslounge.png"
+    },
+    {
+      "id": "Devyn-Sectional-Sofa",
+      "title": "Devyn Sectional Sofa",
+      "designer": "Sixpenny",
+      "type": "sofa",
+      "color": "warm oatmeal",
+      "dimensions": "150\" x 46.5\" x 33\"",
+      "imgs": "imgs/sixpennysofa.png"
+    },
+    {
+        "id": "Panthella-Table-Lamp",
+        "title": "Panthella Table Lamp",
+        "designer": "Verner Panton",
+        "type": "table lamp",
+        "color": "opal white",
+        "dimensions": "9.8\" x 13.2\"",
+        "imgs": "imgs/panthella.png"
+      },
+    {
+      "id": "Arco-Floor-Lamp",
+      "title": "Arco Floor Lamp",
+      "designer": "Achille Castiglioni and Pier Giacomo Castiglioni",
+      "type": "floor lamp",
+      "color": "metal with marble base",
+      "dimensions": "78.5\" x 95\"",
+      "imgs": "imgs/arco.png"
+    },
+    {
+      "id": "T-4112NA-ST",
+      "title": "T-4112NA-ST",
+      "designer": "Kenmochi Design Laboratory",
+      "type": "low shelf",
+      "color": "oak",
+      "dimensions": " 62.6\" x 17.72\" x 21\"",
+      "imgs": "imgs/tendolowshelf.png"
+    },
+    {
+      "id": "Poole-Tables-Side-Table",
+      "title": "Poole Tables - Side Table",
+      "designer": "GRT Architects",
+      "type": "side poole stool",
+      "color": "baltic birch plywood and solid white oak",
+      "dimensions": "18\" x 16\" 17\"",
+      "imgs": "imgs/grt.png"
+    },
+    {
+        "id": "Flowerpot-VP3",
+        "title": "Flowerpot VP3",
+        "designer": "Verner Panton",
+        "type": "table lamp",
+        "color": "vermilion red",
+        "dimensions": "9.1\" x 9.7\"",
+        "imgs": "imgs/flowerpot.png"
+      }
+]

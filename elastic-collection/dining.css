@@ -1,10 +1,10 @@
-:root {
-	--spacing: 1em;
-}
-
 @font-face {
     font-family: "ppobjects";
     src: url(ppobjects.otf);
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 body{
@@ -13,113 +13,283 @@ body{
     letter-spacing: 4px;
 }
 
+:root {
+	--spacing: 1em;
+}
+
 .container{
     font-weight: 400;
-    padding: 30px 90px;
-    font-size: 35px;
     justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px 10px;
 }
 
-.collection{
-    
-}
-
-h1{
-    border-bottom: 1px solid currentColor;
+.title{
     font-size: 50px;
-    padding: 10px 30px;
-    margin-bottom: calc(4 * var(--spacing));
+    padding-bottom: 8px;
+    letter-spacing: 7px;
+    transition: .5s;
+}
+
+.title:hover{
+    letter-spacing: 18px;
+}
+
+
+.des{
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    transition: .5s;
 
 }
+
+.des:hover{
+    letter-spacing: 3px;
+}
+
+
 
 ul {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	gap: calc(4 * var(--spacing));
+    border-top: 0.5px solid;
+    border-left: 0.5px solid;
 	list-style: none;
-    
+    transition: .5s;
+    top: 200px;
+   
 }
+
+.collection{
+    margin-top: 200px;
+}
+
+
+/*
+gap: calc(4 * var(--spacing));
+*/
 
 li {
 	display: flex;
 	flex-direction: column;
-	gap: var(--spacing);
-    margin-top: calc(4 * var(--spacing));
-    margin-left: calc(2 * var(--spacing));
+	gap: calc(1 * var(--spacing));
     
+    border-bottom: 0.5px solid;
+   
+    border-right: 0.5px solid;
+ 
+    
+}
+
+.name{
+   
+   font-size: 24px;
+    margin: 3px;
+    margin-bottom: 10px;
+    line-height: 28px;
+    transition: .5s;
+  
+}
+
+
+
+
+/*
+margin-top: calc(4 * var(--spacing));
+margin-left: calc(2 * var(--spacing)); 
+*/
+
+.text{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-top: 10px;
+    
+}
+
+
+.t{
+    font-size: 13px;
+    margin: 3px;
+    transition: .5s;
 }
  
 img {
-    width: 250px;
+    width: 300px;
+    margin-left: 25%;
+    transition: .7s;
+    
+}
+
+img:hover{
+    filter:blur(4px);
+}
+
+
+
+
+.tab{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
 
 }
 
-img .Panthella-Table-Lamp{
-    width: 500px;
+
+.p{
+ font-weight: 300;
+ font-size: 35px;
+ align-items: center;
+ margin: 26px 10px 0px;
+ 
 }
+
 
 .button {
     background-color: #f2efe3; 
-    border: 1.5px solid;
+    border: 1.4px solid;
     border-radius: 29.5px;
     color: black;
-    padding: 15px 25px;
+    padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 25px;  
+    font-size: 20px;  
     transition: 0.4s ease-in-out;
     font-weight: 100;
+    letter-spacing: 2px;
 }
 
 .button:hover{
     background-color: black;
     color: #f2efe3;
+    border-color: black;
    
 }
+
 
 .buttons {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
-    gap: calc(3 * var(--spacing));
+    gap: calc(2 * var(--spacing));
     margin-bottom: 20px;
     margin-top: 20px;
+    padding: 0px 0px 0px;
+   
+}
+
+.change{
+    position: fixed;
+    background-color: black; 
+    border-radius: 50%;
+    color: black;
+    padding: 24px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    right: 0;
+    transition: 0.4s ease-in-out;
+    bottom: 0;
+    margin: 20px;
+}
+
+.change:hover{
+    background-color: #f2efe3;
+    color: black;
+    border: 1.4px solid;
 
 }
 
+.back{
+    padding: 30px 20px 30px;
+    text-align: center;
+
+  
+}
+
+a{
+    transition: 1.5s ease-in-out;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
 @media (max-width: 800px) {
+
+    img{
+        width: 150px;
+        margin-left: 14%;
+    }
+
 	ul {
 		grid-template-columns: 1fr 1fr;
 	}
 
     li {
-        margin-top: calc(2 * var(--spacing));
-        margin-left: calc(2 * var(--spacing));
+        gap: var(--spacing);
         
     }
 
     .container{
-        padding: 30px 50px;
+        padding: 20px 20px 0px;
+       
+    }
+
+    .title{
+        font-size: 32px;
+
+    }
+
+    .des{
+        font-size: 14px;
+        line-height: 19px;
+        
+
+    }
+
+    h2{
+        font-size: 19px;
     }
 
 
-    img{
-        width: 150px;
+    
+    .p{
+        font-size: 15px;
     }
 
     .button{
-        font-size: 17px;
+        font-size: 10px;
+        padding: 5px 10px;
     }
+
+    .tap{
+       
+    }
+
+    
 
     .buttons {
         display: flex;
-        flex-direction: column;
-        gap: calc(2 * var(--spacing));
+        flex-direction: row;
+        gap: calc(1 * var(--spacing));
+        justify-content: space-between;
+        padding: 0px 19px 10px;
     }
 }
 
 p{
     font-size: 14px;
+}
+
+.text{
+    margin: 9px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    
 }

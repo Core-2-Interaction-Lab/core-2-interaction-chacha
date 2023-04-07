@@ -54,14 +54,13 @@
     "imgs": "imgs/kartell.png"
   },
   {
-    "id": "Scan-Coffee-Table",
-    "title": "Scan Coffee Table",
-    "designer": "Kardiel",
+    "id": "Noguchi-Coffee-Table",
+    "title": "Noguchi Coffee Table",
+    "designer": "Isamu Noguchi",
     "type": "coffee table",
     "color": "walnut",
-    "dimensions": "43.3\" x 28\" x 11.4\"",
-    "imgs": "imgs/kardiel.png",
-    "aspectRatio": "horizontal"
+    "dimensions": "50\" x 36\" x 15.75\"",
+    "imgs": "imgs/noguchi.png"
   },
   {
     "id": "Panthella-Table-Lamp",
@@ -136,58 +135,22 @@
     "imgs": "imgs/petite.png"
   },
   {
-    "id": "Eames-Lounge-Chair-and-Ottoman",
-    "title": "Eames Lounge Chair and Ottoman",
+    "id": "Eames-Soft-Pad-Chair,-Management-Height",
+    "title": "Eames Soft Pad Chair, Management Height",
     "designer": "Charles and Ray Eames",
-    "type": "loungue chair & ottoman",
-    "color": "walnut with MCL black leather",
-    "dimensions": "Standard Chair: 33.5\" x 35\" x 31.5\", Ottoman: 20.75\" x 21.5\" x 17.13\"",
-    "imgs": "imgs/eameslounge.png"
-  },
-  {
-    "id": "Jeanneret-Pj-Si-28-A-Chair",
-    "title": "Jeanneret Pj-Si-28-A Chair",
-    "designer": "Pierre Jeanneret",
     "type": "chair",
-    "color": "cane, teak",
-    "dimensions": "20.25\" x 21\" x 32\"",
-    "imgs": "imgs/chairjarm.png"
+    "color": "black leather with polished aluminium frame",
+    "dimensions": "23\" x 17.75\" x 33.75\"",
+    "imgs": "imgs/eamespadchair.png"
   },
   {
-    "id": "Devyn-Sectional-Sofa",
-    "title": "Devyn Sectional Sofa",
-    "designer": "Sixpenny",
-    "type": "sofa",
-    "color": "warm oatmeal",
-    "dimensions": "150\" x 46.5\" x 33\"",
-    "imgs": "imgs/sixpennysofa.png"
-  },
-  {
-    "id": "Arco-Floor-Lamp",
-    "title": "Arco Floor Lamp",
-    "designer": "Achille Castiglioni and Pier Giacomo Castiglioni",
-    "type": "floor lamp",
-    "color": "metal with marble base",
-    "dimensions": "78.5\" x 95\"",
-    "imgs": "imgs/arco.png"
-  },
-  {
-    "id": "T-4112NA-ST",
-    "title": "T-4112NA-ST",
-    "designer": "Kenmochi Design Laboratory",
-    "type": "low shelf",
-    "color": "oak",
-    "dimensions": " 62.6\" x 17.72\" x 21\"",
-    "imgs": "imgs/tendolowshelf.png"
-  },
-  {
-    "id": "Atollo-Table-Lamp",
-    "title": "Atollo Table Lamp",
-    "designer": "Vico Magistretti",
-    "type": "table lamp",
-    "color": "black metal",
-    "dimensions": "15\" x 19.75\"",
-    "imgs": "imgs/atollolamp.png"
+    "id": "Poole-Tables-Side-Table",
+    "title": "Poole Tables - Side Table",
+    "designer": "GRT Architects",
+    "type": "side poole stool",
+    "color": "baltic birch plywood and solid white oak",
+    "dimensions": "18\" x 16\" 17\"",
+    "imgs": "imgs/grt.png"
   },
   {
     "id": "USM-Haller-Storage-S2",
@@ -199,13 +162,22 @@
     "imgs": "imgs/usm.png"
   },
   {
-    "id": "Eames-Soft-Pad-Chair,-Management-Height",
-    "title": "Eames Soft Pad Chair, Management Height",
-    "designer": "Charles and Ray Eames",
+    "id": "S-5026TK-NT",
+    "title": "S-5026TK-NT",
+    "designer": "Reiko Tanabe",
+    "type": "stool",
+    "color": "teak",
+    "dimensions": "17.72\" x 17\" x 14.17\"",
+    "imgs": "imgs/tendostool.png"
+  },
+  {
+    "id": "Shell-Chair",
+    "title": "Shell Chair",
+    "designer": "Hans Wegner",
     "type": "chair",
-    "color": "black leather with polished aluminium frame",
-    "dimensions": "23\" x 17.75\" x 33.75\"",
-    "imgs": "imgs/eamespadchair.png"
+    "color": "black leather",
+    "dimensions": "36.25\" x 32.75\" x 29\"",
+    "imgs": "imgs/shell.png"
   },
   {
     "id": "PH-3/2-Table-Lamp",
@@ -226,6 +198,16 @@
     "imgs": "imgs/setago.png"
   },
   {
+    "id": "Scan-Coffee-Table",
+    "title": "Scan Coffee Table",
+    "designer": "Kardiel",
+    "type": "coffee table",
+    "color": "walnut",
+    "dimensions": "43.3\" x 28\" x 11.4\"",
+    "imgs": "imgs/kardiel.png",
+    "aspectRatio": "horizontal"
+  },
+  {
     "id": "TOGO-Fireside-Chair",
     "title": "TOGO Fireside Chair",
     "designer": "Michel Ducaroy",
@@ -233,43 +215,6 @@
     "color": "sea sand",
     "dimensions": "34\" x 40\" x 28\"",
     "imgs": "imgs/togo.png"
-  },
-  {
-    "id": "Hovet",
-    "title": "Hovet",
-    "designer": "IKEA",
-    "type": "mirror",
-    "color": "black",
-    "dimensions": "30\" x 77\"",
-    "imgs": "imgs/hovet.png"
-  },
-  {
-    "id": "Kira-Bed",
-    "title": "Kira Bed",
-    "designer": "Sun at Six Design Studio",
-    "type": "platform bed",
-    "color": "nude",
-    "dimensions": "93\"x 97\" x 7.75\"",
-    "imgs": "imgs/bed.png"
-  },
-  
-  {
-    "id": "Anton-Solid-Wood-Dining-Table",
-    "title": "Anton Solid Wood Dining Table",
-    "designer": "west elm",
-    "type": "dining table",
-    "color": "burnt wax",
-    "dimensions": "72\" x 39\" x 30\"",
-    "imgs": "imgs/diningtable.png"
-  },
-  {
-    "id": "Mid-Century-Foldable-Bar-Cart",
-    "title": "Mid-Century Foldable Bar Cart",
-    "designer": "La Maison Dinett",
-    "type": "bar cart",
-    "color": "formica",
-    "dimensions": "26\" x 16.25\" x 27.15\"",
-    "imgs": "imgs/cart.png"
   },
   {
     "id": "Small-Nassau-Classic-Vase",
@@ -297,5 +242,86 @@
     "color": "black",
     "dimensions": "31\" x 27\" x 28.75\"",
     "imgs": "imgs/wassily.png"
+  },
+  {
+    "id": "Eames-Lounge-Chair-and-Ottoman",
+    "title": "Eames Lounge Chair and Ottoman",
+    "designer": "Charles and Ray Eames",
+    "type": "loungue chair & ottoman",
+    "color": "walnut with MCL black leather",
+    "dimensions": "Standard Chair: 33.5\" x 35\" x 31.5\", Ottoman: 20.75\" x 21.5\" x 17.13\"",
+    "imgs": "imgs/eameslounge.png"
+  },
+  {
+    "id": "Mid-Century-Foldable-Bar-Cart",
+    "title": "Mid-Century Foldable Bar Cart",
+    "designer": "La Maison Dinett",
+    "type": "bar cart",
+    "color": "formica",
+    "dimensions": "26\" x 16.25\" x 27.15\"",
+    "imgs": "imgs/cart.png"
+  },
+  {
+    "id": "Devyn-Sectional-Sofa",
+    "title": "Devyn Sectional Sofa",
+    "designer": "Sixpenny",
+    "type": "sofa",
+    "color": "warm oatmeal",
+    "dimensions": "150\" x 46.5\" x 33\"",
+    "imgs": "imgs/sixpennysofa.png"
+  },
+  {
+    "id": "Hovet",
+    "title": "Hovet",
+    "designer": "IKEA",
+    "type": "mirror",
+    "color": "black",
+    "dimensions": "30\" x 77\"",
+    "imgs": "imgs/hovet.png"
+  },
+  {
+    "id": "Kira-Bed",
+    "title": "Kira Bed",
+    "designer": "Sun at Six Design Studio",
+    "type": "platform bed",
+    "color": "nude",
+    "dimensions": "93\"x 97\" x 7.75\"",
+    "imgs": "imgs/bed.png"
+  },
+  {
+    "id": "Jeanneret-Pj-Si-28-A-Chair",
+    "title": "Jeanneret Pj-Si-28-A Chair",
+    "designer": "Pierre Jeanneret",
+    "type": "chair",
+    "color": "cane, teak",
+    "dimensions": "20.25\" x 21\" x 32\"",
+    "imgs": "imgs/chairjarm.png"
+  },
+  {
+    "id": "Arco-Floor-Lamp",
+    "title": "Arco Floor Lamp",
+    "designer": "Achille Castiglioni and Pier Giacomo Castiglioni",
+    "type": "floor lamp",
+    "color": "metal with marble base",
+    "dimensions": "78.5\" x 95\"",
+    "imgs": "imgs/arco.png"
+  },
+  {
+    "id": "T-4112NA-ST",
+    "title": "T-4112NA-ST",
+    "designer": "Kenmochi Design Laboratory",
+    "type": "low shelf",
+    "color": "oak",
+    "dimensions": " 62.6\" x 17.72\" x 21\"",
+    "imgs": "imgs/tendolowshelf.png"
+  },
+  {
+    "id": "Atollo-Table-Lamp",
+    "title": "Atollo Table Lamp",
+    "designer": "Vico Magistretti",
+    "type": "table lamp",
+    "color": "black metal",
+    "dimensions": "15\" x 19.75\"",
+    "imgs": "imgs/atollolamp.png"
   }
  ]

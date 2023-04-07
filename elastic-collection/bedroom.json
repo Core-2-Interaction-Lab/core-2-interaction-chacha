@@ -45,6 +45,24 @@
     "imgs": "imgs/artek.png"
   },
   {
+    "id": "Poole-Tables-Side-Table",
+    "title": "Poole Tables - Side Table",
+    "designer": "GRT Architects",
+    "type": "side poole stool",
+    "color": "baltic birch plywood and solid white oak",
+    "dimensions": "18\" x 16\" 17\"",
+    "imgs": "imgs/grt.png"
+  },
+  {
+    "id": "S-5026TK-NT",
+    "title": "S-5026TK-NT",
+    "designer": "Reiko Tanabe",
+    "type": "stool",
+    "color": "teak",
+    "dimensions": "17.72\" x 17\" x 14.17\"",
+    "imgs": "imgs/tendostool.png"
+  },
+  {
     "id": "Hovet",
     "title": "Hovet",
     "designer": "IKEA",

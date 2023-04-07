@@ -27,6 +27,15 @@
         "dimensions": "50\" x 16\" x 26\"",
         "imgs": "imgs/radiogram.png"
       },
+      {
+        "id": "Noguchi-Coffee-Table",
+        "title": "Noguchi Coffee Table",
+        "designer": "Isamu Noguchi",
+        "type": "coffee table",
+        "color": "walnut",
+        "dimensions": "50\" x 36\" x 15.75\"",
+        "imgs": "imgs/noguchi.png"
+      },
     {
         "id": "Atollo-Table-Lamp",
         "title": "Atollo Table Lamp",
@@ -99,6 +108,15 @@
       "color": "oak",
       "dimensions": " 62.6\" x 17.72\" x 21\"",
       "imgs": "imgs/tendolowshelf.png"
+    },
+    {
+      "id": "Poole-Tables-Side-Table",
+      "title": "Poole Tables - Side Table",
+      "designer": "GRT Architects",
+      "type": "side poole stool",
+      "color": "baltic birch plywood and solid white oak",
+      "dimensions": "18\" x 16\" 17\"",
+      "imgs": "imgs/grt.png"
     },
     {
         "id": "Flowerpot-VP3",

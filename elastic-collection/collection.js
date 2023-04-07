@@ -52,6 +52,16 @@ fetch('collection.json')
 		renderItems(collection) // In reverse order
 })
 
+// Fixed bar
+let parent = document.querySelector('.tab').parentElement;
+
+while (parent) {
+    const hasOverflow = getComputedStyle(parent).overflow;
+    if (hasOverflow !== 'visible') {
+        console.log(hasOverflow, parent);
+    }
+    parent = parent.parentElement;
+}
 
 // FILTER
 

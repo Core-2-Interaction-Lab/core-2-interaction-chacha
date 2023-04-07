@@ -1,0 +1,47 @@
+.nav{
+    position: -webkit-sticky;
+position: sticky;
+top: 0;
+background-color: #666;
+padding: 40px;
+font-size: 25px;
+}
+
+
+nav {
+    background-color: #000000;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}
+
+p{
+    color: aqua;
+}
+
+.scrollFix {
+    position: fixed;
+    top: 0;
+    height: 70px;
+    z-index: 1;
+}
+
+.one{
+    background-color: aquamarine;
+    width: 100%;
+    height: 900px;
+}
+
+.two{
+    background-color: rgb(47, 9, 32);
+    width: 100%;
+    height: 900px;
+}
+
+.three{
+    background-color: rgb(89, 130, 35);
+    width: 100%;
+    height: 900px;
+}

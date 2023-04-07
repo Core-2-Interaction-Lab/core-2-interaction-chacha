@@ -18,13 +18,13 @@
     "imgs": "imgs/eamespadchair.png"
   },
   {
-    "id": "Uten.Silo-II",
-    "title": "Uten.Silo II",
-    "designer": "Dorothee Becker",
-    "type": "organizer",
-    "color": "04 white",
-    "dimensions": "20\" x 26\"",
-    "imgs": "imgs/uten.png"
+    "id": "S-5026TK-NT",
+    "title": "S-5026TK-NT",
+    "designer": "Reiko Tanabe",
+    "type": "stool",
+    "color": "teak",
+    "dimensions": "17.72\" x 17\" x 14.17\"",
+    "imgs": "imgs/tendostool.png"
   },
   {
     "id": "Mid-Century-Modern-Mobile",
@@ -61,5 +61,23 @@
     "color": "black",
     "dimensions": "31\" x 27\" x 28.75\"",
     "imgs": "imgs/wassily.png"
+  },
+  {
+    "id": "Uten.Silo-II",
+    "title": "Uten.Silo II",
+    "designer": "Dorothee Becker",
+    "type": "organizer",
+    "color": "04 white",
+    "dimensions": "20\" x 26\"",
+    "imgs": "imgs/uten.png"
+  },
+  {
+    "id": "Shell-Chair",
+    "title": "Shell Chair",
+    "designer": "Hans Wegner",
+    "type": "chair",
+    "color": "black leather",
+    "dimensions": "36.25\" x 32.75\" x 29\"",
+    "imgs": "imgs/shell.png"
   }
  ]
