@@ -1,23 +1,39 @@
+html{
+    scroll-behavior: smooth;
+    cursor:url(blackcursor.png), auto;
+}
+
+
+
 @font-face {
     font-family: "ppobjects";
     src: url(ppobjects.otf);
 }
 
-html{
-    scroll-behavior: smooth;
-}
 
 body{
     background-color: #f2efe3;
     font-family: 'ppobjects', sans-serif;
     letter-spacing: 4px;
+   
+   
 }
 
 :root {
 	--spacing: 1em;
 }
 
-
+.cursor {
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    transition-duration: 300ms;
+    transition-timing-function: ease-out;
+    animation: cursorAnim .5s infinite alternate;
+    z-index: 200;
+  }
 
 .container{
     font-weight: 400;
