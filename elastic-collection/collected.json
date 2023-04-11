@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Setago-Portable-Table-Lamp",
+        "title": "Setago Portable Table Lamp",
+        "designer": "Jaime Hayon",
+        "type": "table lamp",
+        "color": "tan/forest",
+        "dimensions": "7.1\" x 8.8\"",
+        "imgs": "imgs/setago.png"
+      },
+      {
+        "id": "Mid-Century-Foldable-Bar-Cart",
+        "title": "Mid-Century Foldable Bar Cart",
+        "designer": "La Maison Dinett",
+        "type": "bar cart",
+        "color": "formica",
+        "dimensions": "26\" x 16.25\" x 27.15\"",
+        "imgs": "imgs/cart.png"
+      }
+]
