@@ -3,17 +3,21 @@ const translateButton = document.querySelector('#boxch');
 const boxButton = document.querySelector('#boxr');
 const climbButton = document.querySelector('#boxcl');
 const eatButton = document.querySelector('#foode');
+const foodButton = document.querySelector('#food');
 
 const myElement1 = document.querySelector('#sqch1');
 const myElement2 = document.querySelector('#sqch2');
 const myElement3 = document.querySelector('#sqr');
 const myElement4 = document.querySelector('#sqcl');
 const myElement5 = document.querySelector('#sqe');
+const myElement6 = document.querySelector('#sqf1');
+const myElement7 = document.querySelector('#sqf2');
 
 let isTranslated = false;
 let isBox = false;
 let isClimb = false;
 let isEat = false;
+let isFood = false;
 
 translateButton.addEventListener('click', () => {
   if (!isTranslated) {
@@ -54,4 +58,15 @@ boxButton.addEventListener('click', () => {
     }
     isEat = !isEat;
   });
+
   
+  foodButton.addEventListener('click', () => {
+    if (!isFood) {
+      myElement6.classList.add('nudge');
+      myElement7.classList.add('nudgee');
+    } else {
+      myElement6.classList.remove('nudge');
+      myElement7.classList.remove('nudgee');
+    }
+    isFood = !isFood;
+  });
