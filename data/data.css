@@ -18,6 +18,15 @@
     src: url(outfitexlight.otf);
 }
 
+@font-face {
+    font-family: "moriexlight";
+    src: url(PPMoriExtralight.otf);
+}
+
+@font-face {
+    font-family: "morireg";
+    src: url(PPMoriRegular.otf);
+}
 
 body {
 	color: #D2CCBD;
@@ -31,7 +40,7 @@ body {
 
 .title{
 	text-align: center;
-	font-family: 'outfitlight',sans-serif;
+	font-family: 'morireg',sans-serif;
 	font-size: 140px;
 	padding: 50px;
 	padding-bottom: 24px;
@@ -39,7 +48,7 @@ body {
 }
 
 .des{
-	font-family: 'outfitexlight',sans-serif;
+	font-family: 'moriexlight',sans-serif;
 	font-size: 40px;
 	text-align: center;
 	padding-bottom: 50px;
@@ -69,13 +78,14 @@ canvas{
 }
 
 .dess{
-	font-family: 'outfitexlight',sans-serif;
+	font-family: 'moriexlight',sans-serif;
 	font-size: 20px;
 	text-align: center;
 	padding-top: 90px;
-	
 	margin-left: 290px;
 	margin-right: 290px;
+	line-height: 26px;
+	letter-spacing: 1.5px;
 }
 
 .buttonn{
@@ -85,11 +95,10 @@ canvas{
 }
 
 .button{
-	font-family: 'outfitlight', sans-serif;
+	font-family: 'morireg', sans-serif;
 	font-size: 34px;
 	text-align: center;
 	padding: 20px 24px ;
-
 	background: #A05B29;
 	border-radius: 38px;
 	margin-bottom: 60px;
@@ -114,7 +123,7 @@ a {
 	justify-content: space-between;
 	padding: 24px;
 	border-top: 2px solid #D2CCBD;
-	font-family: 'outfitlight', sans-serif;
+	font-family: 'moriexlight', sans-serif;
 	font-weight: 300;
 	font-size: 25px;
 
