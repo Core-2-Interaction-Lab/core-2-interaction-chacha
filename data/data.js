@@ -34,9 +34,7 @@ const playWithData = data => {
 	  },
 	  options: {
 		scales: {
-		  y: {
-			beginAtZero: true
-		  }
+		
 		}
 	  }
 	});
