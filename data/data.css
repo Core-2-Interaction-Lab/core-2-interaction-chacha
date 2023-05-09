@@ -1,0 +1,85 @@
+
+@font-face {
+    font-family: "outfitreg";
+    src: url( OutfitRegular.otf);
+}
+
+@font-face {
+    font-family: "outfitlight";
+    src: url(outfitlight.otf);
+}
+
+@font-face {
+    font-family: "outfitexlight";
+    src: url(outfitexlight.otf);
+}
+
+:root {
+	--size-1: 25px;
+    background-color: #24402F;
+}
+
+body {
+	color: #D2CCBD;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.title{
+	text-align: center;
+	font-family: 'outfitlight',sans-serif;
+	font-size: 140px;
+	padding: 50px;
+	padding-bottom: 24px;
+
+}
+
+.des{
+	font-family: 'outfitexlight',sans-serif;
+	font-size: 40px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+
+/* Always set the map height explicitly to define the size of the div element that contains the map. */
+#myChart {
+	width: 40vh;
+  	height: 40vh !important;
+
+}
+
+canvas{
+	justify-content: center;
+	align-items: center;
+	margin-left: 10%;
+}
+
+.button{
+	font-family: 'outfitlight', sans-serif;
+	font-size: 34px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px 22px;
+	background: #A05B29;
+	border-radius: 38px;
+	margin: 60px;
+	margin-top: 90px;
+	cursor: pointer;
+	box-shadow: 0px 5px 10px rgba(0,0,0,0.1);
+	transition: transform 0.2s ease;
+}
+
+.button:active {
+	transform: scale(0.96);
+}
+
+a {
+	text-decoration: none;
+}
