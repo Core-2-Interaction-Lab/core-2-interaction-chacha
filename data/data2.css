@@ -84,7 +84,7 @@ body {
 }
 
 .foraging{
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 50px;
     padding: 20px;
 }
@@ -182,7 +182,7 @@ body {
 .foragingt{
     display: flex;
     flex-direction: column;
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 25px;
     padding: 40px;
 }
@@ -208,7 +208,7 @@ body {
 }
 
 .eating{
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 50px;
     padding: 20px;
 }
@@ -279,7 +279,7 @@ body {
 .eatingt{
     display: flex;
     flex-direction: column;
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 25px;
     padding: 40px;
 }
@@ -304,7 +304,7 @@ body {
 }
 
 .climbing{
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 50px;
     padding: 20px;
 }
@@ -359,7 +359,7 @@ body {
 .climbingt{
     display: flex;
     flex-direction: column;
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 25px;
     padding: 40px;
 }
@@ -385,7 +385,7 @@ body {
 }
 
 .chasing{
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 50px;
     padding: 20px;
 }
@@ -589,7 +589,7 @@ body {
 .chasingt{
     display: flex;
     flex-direction: column;
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 25px;
     padding: 40px;
 }
@@ -615,7 +615,7 @@ body {
 }
 
 .running{
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 50px;
     padding: 20px;
 }
@@ -683,14 +683,14 @@ body {
 .runningt{
     display: flex;
     flex-direction: column;
-    font-family: 'outfitexlight', sans-serif;
+    font-family: 'moriexlight', sans-serif;
     font-size: 25px;
     padding: 40px;
 }
 
 .name{
     text-align: center;
-	font-family: 'outfitlight',sans-serif;
+	font-family: 'morireg',sans-serif;
 	font-size: 70px;
 	padding-top: 40px;
 	padding-bottom: 70px;
@@ -712,7 +712,7 @@ height: 70vh;
 
 
     .back{
-        font-family: 'outfitlight', sans-serif;
+        font-family: 'moriexlight', sans-serif;
         font-size: 24px;
         display: flex;
         align-items: center;
