@@ -14,6 +14,17 @@
     src: url(outfitexlight.otf);
 }
 
+@font-face {
+    font-family: "moriexlight";
+    src: url(PPMoriExtralight.otf);
+}
+
+@font-face {
+    font-family: "morireg";
+    src: url(PPMoriRegular.otf);
+}
+
+
 :root {
 	--size-1: 25px;
     background-color: #24402F;
