@@ -21,14 +21,20 @@ const playWithData = data => {
 		datasets: [
 			{
 				label: 'number of squirrels',
+		
 				data: [2473, 392, 103, 55],
+				lebelColor:
+					'#D2CCBD',
+					borderColor:
+					'#D2CCBD',
 				backgroundColor: [
 					'rgba(175, 173, 165, 1)',
 					'rgba(187, 115, 54, 1)',
 					'rgba(43, 47, 48, 1)',
-					'rgba(222, 225, 229, 1)',
+					'rgba(36, 64, 47, 1)',
 				],
-				borderWidth: 0
+				
+				borderWidth: 0.5
 			}
 		]
 	  },

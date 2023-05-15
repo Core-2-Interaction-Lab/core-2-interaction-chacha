@@ -1,0 +1,139 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+	margin: 0;
+}
+
+.canvas {
+	max-width: 900px;
+	height: 550px;
+	margin: 100px auto;
+	background: rgb(255, 243, 248);
+	position: relative;
+	z-index: -4;
+}
+
+.table{
+	max-width: 780px;
+	height: 130px;
+	background-color: rgb(125, 137, 127);
+	position: relative;
+	top: 420px;
+	left: 6.5%;
+	z-index: -4;
+}
+
+.lamp{
+	position: relative;
+	left: 400px;
+	top: 119px;
+
+}
+
+#lamptop{
+	background-color: rgb(193, 217, 235);
+    width: 150px;
+    height: 66px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+#lampbottom{
+	background-image:linear-gradient(#f2f2e8, rgb(193, 217, 235));
+    width: 55px;
+    height: 105px;
+	top: 66px;
+	left: 45px;
+	position: absolute;
+}
+
+#light{
+	border-bottom: 105px solid rgb(240, 232, 197);
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	width: 185px;
+	left: -17.5px;
+	opacity: 0.3;
+	position: relative;
+}
+
+.egg{
+	background-color: plum;
+	position: relative;
+	top: 47px;
+	left: 270px;
+    width: 57px;
+    height: 90px;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+	z-index: 9;
+	transform: rotate(-95deg);
+}
+
+.ring{
+	position: relative;
+	top: -69px;
+	left: 650px;
+}
+
+#ringbig{
+	position: relative;
+	background-color: rgb(126, 122, 200);
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+#ringinner{
+	position: absolute;
+	background-color: white;
+	width: 66px;
+	height: 66px;
+	border-radius: 50%;
+	top: 16.5px;
+	left: 17px;
+}
+
+#perfume{
+	position: relative;
+	height: 80px;
+	width: 56px;
+	background-color: orange;
+	top: -151px;
+	left: 110px;
+}
+
+#top{
+	position: relative;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	background-color: rgb(123, 160, 109);
+	top: -260px;
+	left: 119px;
+}
+
+.napkin{
+	position: relative;
+	top: 330px;
+	left: 470px;
+	width: 180px;
+	height: 150px;
+	background-color: #9f254c;
+	border-radius: 10%;
+	transform: rotate(350deg);
+	position: absolute;
+	z-index: -3;    
+}
+
+.white{
+	position: relative;
+	width: 200px;
+	height: 170px;
+	background-color: rgb(255, 243, 248);
+	z-index: -2;
+	top: -356px;
+	left: 460px;
+}
