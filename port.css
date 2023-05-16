@@ -88,6 +88,11 @@
     padding-top: 30px;
   }
 
+  .aa{
+    font-size: 30px;
+    padding-top: 20px;
+  }
+
   .right{
     display: flex;
     flex-direction: column;
