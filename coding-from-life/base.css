@@ -88,7 +88,7 @@ body {
 
 #ringinner{
 	position: absolute;
-	background-color: white;
+	background-color: rgb(255, 243, 248);
 	width: 66px;
 	height: 66px;
 	border-radius: 50%;
