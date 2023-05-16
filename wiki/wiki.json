@@ -1,0 +1,98 @@
+[
+    {
+      "added": "Chacha",
+      "id": 1,
+      "Title": "Shoo Shoo Baby",
+      "URL": "https://en.wikipedia.org/wiki/Shoo_Shoo_Baby_(song)",
+      "caption": "Shoo Shoo Baby by Andrew Sisters",
+      "imgs": "shoo.jpg"
+    },
+    {
+      "added": "Lily",
+      "id": 2,
+      "Title": "Phil Moore",
+      "URL": "https://en.wikipedia.org/wiki/Phil_Moore_(jazz_musician)",
+      "caption": "Born on February 20, 1918 Portland, Oregon, U.S.",
+      "imgs": "phil.jpg"
+    },
+    {
+      "added": "Chacha",
+      "id": 3,
+      "Title": "Dumbo",
+      "URL": "https://en.wikipedia.org/wiki/Dumbo",
+      "caption": "Based on Dumbo, the Flying Elephant by Helen Aberson Harold Pearl",
+      "imgs": "dumbo.jpg"
+    },
+    {
+      "added": "Lily",
+      "id": 4,
+      "Title": "Tim Burton",
+      "URL": "https://en.wikipedia.org/wiki/Tim_Burton",
+      "caption": "Timothy Walter Burton August 25, 1958 (age 64) Burbank, California, U.S.",
+      "imgs": "tim.jpg"
+    },
+    {
+      "added": "Chacha",
+      "id": 5,
+      "Title": "Alice in Wonderland",
+      "URL": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
+      "caption": "Based on Alice's Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll",
+      "imgs": "alice.png"
+    },
+    {
+      "added": "Lily",
+      "id": 6,
+      "Title": "Rotten Tomatoes",
+      "URL": "https://en.wikipedia.org/wiki/Rotten_Tomatoes",
+      "caption": "Film and television review aggregator and user community",
+      "imgs": "tomato.png"
+    },
+    {
+      "added": "Chacha",
+      "id": 7,
+      "Title": "Yahoo",
+      "URL": "https://en.wikipedia.org/wiki/Yahoo!",
+      "caption": "Web portal and online services",
+      "imgs": "yahoo.png"
+    },
+    {
+      "added": "Lily",
+      "id": 8,
+      "Title": "List of Governors of California",
+      "URL": "https://en.wikipedia.org/wiki/List_of_governors_of_California",
+      "caption": "Gavin Newsom, the 40th and current governor of California",
+      "imgs": "gavin.jpg"
+    },
+    {
+      "added": "Chacha",
+      "id": 9,
+      "Title": "Stanford University",
+      "URL": "https://en.wikipedia.org/wiki/Stanford_University",
+      "caption": "Motto: \"The wind of freedom blows\"",
+      "imgs": "stanford.png"
+    },
+    {
+      "added": "Lily",
+      "id": 10,
+      "Title": "Ticket",
+      "URL": "https://en.wikipedia.org/wiki/Ticket_(election)",
+      "caption": "Republican Party ticket from 1865 gubernatorial election in Massachusetts. The Republican candidate, Alexander H. Bullock, defeated Democratic challenger Darius N. Couch.",
+      "imgs": "ticket.jpg"
+    },
+    {
+      "added": "Chacha",
+      "id": 11,
+      "Title": "Question",
+      "URL": "https://en.wikipedia.org/wiki/Question",
+      "caption": "Questions",
+      "imgs": "question.png"
+    },
+    {
+      "added": "Lily",
+      "id": 12,
+      "Title": "English",
+      "URL": "https://en.wikipedia.org/wiki/English_language",
+      "caption": "Dark blue: Countries and territories where English or an English-based creole is the native language of the majority. <br> Blue: Countries or territories where English is an official or administrative language but not a majority native language",
+      "imgs": "english.png"
+    }
+   ]

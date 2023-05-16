@@ -1,0 +1,61 @@
+/* Just to make the demo easier to work with. */
+
+:root {
+	--spacing: 1em;
+}
+
+body {
+	font-family: sans-serif;
+	font-weight: 100;
+	padding: var(--spacing) var(--spacing) calc(4 * var(--spacing));
+    background-color: rgb(234, 224, 242);
+}
+
+
+
+ul {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: calc(4 * var(--spacing));
+	margin-top: calc(4 * var(--spacing));
+	list-style: none;
+}
+
+li {
+	display: flex;
+	flex-direction: column;
+	gap: var(--spacing);
+}
+
+
+img{
+    width: 300px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(73, 161, 175);
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(108, 192, 205)
+}
+
+.name{
+    font-size: 20px;
+    margin: 3px;
+    margin-bottom: 10px;
+    line-height: 28px;
+    transition: .5s;
+  
+}
+
+@media (max-width: 600px) {
+	ul {
+		grid-template-columns: 1fr;
+	}
+}
