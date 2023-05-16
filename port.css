@@ -70,15 +70,14 @@
 .one{
     padding-top: 30px;
     font-size: 30px;
-
-  
+    width: 100%;
   }
   
 .two{
 
     font-size: 30px;
     padding-top: 20px;
-
+    width: 100%;
   
   }
   
@@ -86,6 +85,7 @@
  
     font-size: 30px;
     padding-top: 20px;
+    width: 100%;
   
   }
 
@@ -97,6 +97,7 @@
   .aa{
     font-size: 30px;
     padding-top: 20px;
+    width: 100%;
   }
 
   .right{
@@ -127,9 +128,10 @@
     color: #ffffff;
   }
   
-  a:hover {
+  .three:hover, .one:hover, .two:hover, .aa:hover, .still:hover {
     opacity: 0.5;
     font-size: 20px;
+
     transition: ease all .6s;
   }
 
