@@ -9,6 +9,11 @@
   
   }
   
+  .container{
+    display: flex;
+    flex-direction: column;
+
+  }
 
   .cha{
     text-align: center;
@@ -17,6 +22,7 @@
     font-family: sans-serif;
   
   }
+
 
   .core{
     text-align: center;
@@ -126,5 +132,33 @@
     font-size: 20px;
     transition: ease all .6s;
   }
-  
+
+  @media (max-width: 960px) {
+
+    .core{
+        padding-bottom: 200px;
+    }
+
+    .page{
+        flex-direction: column;
+        background-color: antiquewhite;
+        justify-content: center;
+    
+    }
+
+    .right{
+        margin-top: 20px;
+        margin-bottom: 250px;
+    }
+
+    .cha{
+        margin-top: 20px;
+    }
+
+    .still{
+        padding-top: 20px;
+    }
+    
+
+  }
 
